@@ -1,0 +1,488 @@
+Age,BMI,Sex,Height,Weight,Management,Severity,Diagnosis_Presumptive,Diagnosis,Alvarado_Score,Paedriatic_Appendicitis_Score,Migratory_Pain,Lower_Right_Abd_Pain,Contralateral_Rebound_Tenderness,Coughing_Pain,Nausea,Loss_of_Appetite,Body_Temperature,WBC_Count,Neutrophil_Percentage,Neutrophilia,RBC_Count,Hemoglobin,RDW,Thrombocyte_Count,Ketones_in_Urine,RBC_in_Urine,WBC_in_Urine
+12.68,16.9,female,148.0,37.0,conservative,uncomplicated,appendicitis,1,4.0,3.0,no,yes,yes,no,no,yes,37.0,7.7,68.2,0,5.27,14.8,12.2,254.0,1,1,0
+11.08,16.9,female,163.0,45.0,conservative,uncomplicated,appendicitis,1,5.0,6.0,no,yes,yes,yes,yes,yes,36.9,8.1,44.0,0,4.44,12.6,13.6,311.0,0,0,0
+14.34,14.9,male,174.0,45.5,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,yes,37.1,5.8,47.2,0,4.78,12.9,12.6,220.0,0,0,0
+11.87,15.7,male,147.0,34.0,conservative,uncomplicated,appendicitis,1,8.0,9.0,yes,yes,no,yes,no,yes,38.0,17.1,80.5,1,4.75,13.2,12.1,319.0,0,0,0
+13.39,17.5,female,153.0,40.7,conservative,uncomplicated,appendicitis,1,6.0,6.0,yes,yes,no,no,yes,yes,38.1,6.8,73.7,0,5.19,14.1,12.4,267.0,1,0,0
+17.24,33.1,female,163.0,88.0,conservative,uncomplicated,appendicitis,1,3.0,5.0,yes,yes,no,yes,no,no,36.1,6.5,57.9,0,4.93,14.2,12.8,271.0,0,0,0
+10.58,18.6,female,152.0,43.0,conservative,uncomplicated,appendicitis,1,8.0,6.0,no,yes,yes,no,yes,yes,36.0,13.4,84.1,1,4.96,13.6,12.4,250.0,1,0,0
+16.66,21.5,male,174.0,65.0,conservative,uncomplicated,appendicitis,1,6.0,7.0,yes,yes,yes,yes,yes,yes,36.6,6.6,53.3,0,5.31,15.8,11.9,254.0,1,0,0
+13.26,24.2,female,160.0,62.0,conservative,uncomplicated,appendicitis,1,2.0,4.0,no,yes,no,yes,no,no,36.0,7.4,53.0,0,4.48,12.9,12.3,266.0,0,0,0
+8.69,16.0,female,139.0,31.0,conservative,uncomplicated,appendicitis,1,8.0,8.0,no,yes,yes,yes,yes,yes,37.3,10.7,56.0,0,4.15,12.2,11.8,284.0,1,0,1
+10.51,17.8,female,150.0,40.0,conservative,uncomplicated,appendicitis,1,7.0,8.0,no,yes,no,yes,yes,yes,36.3,16.1,84.5,1,4.55,13.2,11.5,332.0,0,0,0
+13.54,17.4,female,166.0,48.0,conservative,uncomplicated,appendicitis,1,5.0,6.0,no,yes,yes,yes,yes,yes,36.8,6.4,49.8,0,4.51,12.5,11.9,286.0,0,0,0
+10.55,18.1,male,141.0,36.0,conservative,uncomplicated,appendicitis,1,6.0,7.0,no,yes,no,yes,no,yes,37.4,11.0,73.2,0,4.67,13.4,13.4,279.0,0,0,0
+10.36,16.3,female,138.0,31.0,conservative,uncomplicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,yes,38.3,16.7,73.5,0,4.83,13.3,11.8,239.0,0,0,0
+7.9,15.3,female,132.5,26.5,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,yes,37.1,6.5,29.7,0,4.7,13.0,11.7,246.0,0,0,1
+13.38,17.7,male,163.0,47.0,conservative,uncomplicated,appendicitis,1,9.0,8.0,yes,yes,no,no,yes,yes,37.7,12.3,79.6,1,4.42,12.9,12.6,305.0,0,0,0
+11.38,22.1,male,141.0,44.2,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,yes,36.6,6.3,42.2,0,4.36,12.5,11.7,339.0,1,0,0
+12.06,17.4,female,157.0,43.0,conservative,uncomplicated,appendicitis,1,2.0,4.0,no,yes,no,yes,no,no,36.2,8.7,48.0,0,4.98,14.0,12.1,316.0,0,1,1
+7.2,14.1,female,125.0,22.0,conservative,uncomplicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,yes,36.6,16.5,83.1,1,5.07,14.3,12.6,313.0,1,0,0
+8.5,19.4,male,140.0,38.0,conservative,uncomplicated,appendicitis,1,8.0,7.0,no,yes,no,no,yes,yes,37.6,12.2,83.3,1,5.05,13.7,12.0,286.0,0,0,0
+16.31,30.8,male,183.0,103.0,conservative,uncomplicated,appendicitis,1,6.0,7.0,yes,yes,yes,yes,yes,yes,36.9,5.8,54.4,0,5.02,14.8,11.6,341.0,1,0,0
+15.83,25.2,female,153.0,59.0,conservative,uncomplicated,appendicitis,1,7.0,6.0,yes,yes,no,no,yes,yes,36.7,12.8,77.9,1,4.33,10.1,15.9,310.0,1,3,1
+12.7,17.3,female,165.0,46.5,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,yes,36.7,8.4,62.7,0,4.93,14.6,12.3,264.0,0,0,0
+17.79,17.8,female,164.0,48.0,conservative,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,no,no,37.5,15.5,81.8,1,4.79,13.9,12.2,176.0,0,0,0
+8.73,14.9,female,132.0,26.0,conservative,uncomplicated,appendicitis,1,4.0,3.0,yes,yes,yes,no,no,no,36.6,8.1,62.0,0,4.47,12.9,11.8,210.0,0,0,0
+10.59,16.8,male,140.0,33.0,conservative,uncomplicated,appendicitis,1,6.0,6.0,no,yes,yes,yes,no,no,37.3,10.1,69.5,0,4.65,12.1,12.7,366.0,0,0,0
+16.29,18.6,female,175.0,57.0,conservative,uncomplicated,appendicitis,1,7.0,6.0,yes,yes,no,no,no,yes,36.7,13.8,82.5,1,4.49,12.7,12.1,236.0,1,1,1
+9.49,14.6,male,136.0,27.0,conservative,uncomplicated,appendicitis,1,9.0,9.0,yes,yes,no,yes,yes,yes,37.2,15.6,82.1,1,4.3,11.8,12.6,196.0,1,0,0
+17.72,22.7,male,178.0,72.0,conservative,uncomplicated,appendicitis,1,8.0,7.0,yes,yes,no,no,yes,yes,36.5,14.7,80.9,1,5.99,15.6,13.7,225.0,1,0,0
+6.39,15.7,male,110.0,18.5,conservative,uncomplicated,appendicitis,1,7.0,6.0,no,yes,yes,no,no,yes,37.0,15.5,89.6,1,4.5,12.9,12.1,304.0,1,0,0
+11.22,14.9,male,142.0,30.0,conservative,uncomplicated,appendicitis,1,6.0,6.0,no,yes,yes,yes,no,no,36.8,15.1,86.2,1,4.26,12.1,12.3,314.0,0,0,0
+12.98,20.2,female,159.0,51.0,conservative,uncomplicated,appendicitis,1,7.0,5.0,no,yes,yes,no,yes,yes,37.2,13.3,74.5,0,4.96,13.8,12.5,292.0,0,0,0
+10.64,23.5,male,146.0,49.5,conservative,uncomplicated,appendicitis,1,4.0,3.0,no,no,no,no,yes,yes,36.7,10.7,66.4,0,4.93,13.9,12.0,326.0,1,0,0
+7.3,15.9,female,123.0,23.5,conservative,uncomplicated,appendicitis,1,9.0,7.0,yes,yes,yes,no,yes,yes,37.4,21.1,71.8,0,4.64,12.9,13.4,249.0,0,1,1
+14.6,18.2,male,164.0,48.5,conservative,uncomplicated,appendicitis,1,10.0,8.0,yes,yes,yes,no,yes,yes,37.6,18.7,84.3,1,4.76,14.4,12.4,205.0,1,0,0
+6.27,16.5,male,128.0,26.5,conservative,uncomplicated,appendicitis,1,5.0,5.0,no,yes,yes,yes,no,no,36.9,13.1,71.3,0,4.65,13.2,12.2,283.0,0,0,0
+10.98,12.9,female,142.0,26.0,conservative,uncomplicated,appendicitis,1,6.0,5.0,yes,yes,no,no,no,no,37.2,13.3,77.0,1,5.18,13.8,11.9,275.0,0,0,0
+12.59,16.7,male,148.5,36.5,conservative,uncomplicated,appendicitis,1,5.0,4.0,no,yes,no,no,no,no,36.8,11.1,75.8,1,4.76,13.9,12.6,297.0,0,0,0
+8.19,14.8,male,130.0,25.0,conservative,uncomplicated,appendicitis,1,8.0,7.0,no,yes,no,no,yes,yes,37.7,16.8,75.5,1,4.81,13.4,11.9,386.0,1,0,1
+16.19,22.0,male,172.0,65.0,conservative,uncomplicated,appendicitis,1,5.0,4.0,yes,yes,no,no,no,no,36.4,12.7,73.2,0,5.31,16.1,12.3,192.0,0,3,0
+12.67,17.4,male,168.0,49.0,conservative,uncomplicated,appendicitis,1,3.0,4.0,no,yes,yes,yes,no,no,36.6,5.7,52.9,0,4.71,13.5,12.2,214.0,0,0,0
+7.74,14.5,female,126.0,22.5,conservative,uncomplicated,appendicitis,1,5.0,5.0,yes,yes,no,no,yes,yes,36.8,8.5,61.4,0,4.6,13.1,12.2,351.0,0,0,0
+10.65,13.3,female,136.5,25.0,conservative,uncomplicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,yes,36.2,18.6,93.9,1,4.83,12.6,13.3,349.0,1,0,0
+12.8,15.6,male,152.0,35.8,conservative,uncomplicated,appendicitis,1,5.0,6.0,no,yes,yes,yes,yes,yes,37.1,8.7,74.3,0,5.16,14.2,12.9,272.0,0,1,0
+3.27,15.75,female,87.7,12.2,conservative,uncomplicated,appendicitis,1,8.0,7.0,no,yes,no,no,yes,yes,38.9,17.9,87.1,1,4.73,12.4,14.2,342.0,1,0,0
+11.36,13.9,female,142.0,28.0,conservative,uncomplicated,appendicitis,1,9.0,7.0,yes,yes,yes,no,yes,yes,36.8,11.4,84.6,1,4.35,12.7,12.4,183.0,1,1,1
+16.68,20.3,female,169.0,58.0,conservative,uncomplicated,appendicitis,1,4.0,3.0,no,yes,no,no,no,no,36.8,10.8,65.1,0,4.57,13.6,12.6,240.0,0,0,0
+14.15,23.5,female,165.0,64.0,conservative,uncomplicated,appendicitis,1,5.0,4.0,no,no,no,no,yes,no,37.6,16.3,87.7,1,4.76,13.8,12.1,325.0,0,0,1
+8.34,13.0,female,130.0,21.5,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,yes,36.7,9.1,70.5,0,4.9,13.1,12.1,466.0,0,1,1
+11.82,16.7,male,147.0,36.0,conservative,uncomplicated,appendicitis,1,7.0,5.0,no,yes,yes,no,no,no,37.5,21.4,90.0,1,4.43,12.4,12.6,365.0,0,0,0
+13.7,15.4,male,167.0,43.4,conservative,uncomplicated,appendicitis,1,5.0,6.0,yes,yes,no,yes,no,no,36.7,12.4,65.7,0,4.69,12.4,14.4,247.0,0,0,0
+9.75,15.9,male,141.5,32.0,conservative,uncomplicated,appendicitis,1,5.0,6.0,no,yes,no,yes,yes,no,35.9,14.8,68.4,0,4.56,13.6,12.3,302.0,0,0,0
+13.76,20.1,female,161.0,51.5,conservative,uncomplicated,appendicitis,1,5.0,4.0,yes,yes,no,no,no,no,36.9,11.5,70.7,0,4.59,13.2,12.6,255.0,0,0,0
+11.15,17.5,male,155.0,42.0,conservative,uncomplicated,appendicitis,1,4.0,6.0,no,yes,no,yes,yes,yes,36.8,7.5,59.6,0,5.18,13.8,13.3,234.0,0,0,0
+15.38,18.1,female,163.0,47.6,conservative,uncomplicated,appendicitis,1,6.0,6.0,yes,yes,no,no,yes,yes,37.4,8.3,66.9,0,4.73,13.6,12.6,220.0,1,0,0
+13.64,21.2,female,158.0,53.0,conservative,uncomplicated,appendicitis,1,5.0,4.0,yes,yes,yes,no,no,no,37.5,7.4,52.6,0,4.94,14.5,13.3,277.0,0,0,0
+12.42,16.2,male,147.0,34.5,conservative,uncomplicated,appendicitis,1,5.0,3.0,no,yes,yes,no,no,no,37.1,13.3,72.4,0,4.93,13.8,12.9,200.0,0,0,0
+15.89,23.1,female,143.5,47.5,conservative,uncomplicated,appendicitis,1,7.0,6.0,no,yes,no,no,no,yes,37.9,17.4,78.3,1,4.92,14.6,12.8,219.0,1,1,0
+11.01,16.0,male,148.0,35.0,conservative,uncomplicated,appendicitis,1,9.0,8.0,yes,yes,no,no,yes,yes,38.1,16.9,78.7,1,4.5,11.9,13.8,344.0,1,0,0
+13.8,20.6,male,162.0,54.0,conservative,uncomplicated,appendicitis,1,7.0,8.0,no,yes,no,yes,yes,yes,36.9,10.9,88.8,1,4.47,13.0,12.3,260.0,1,1,1
+10.8,21.8,female,146.5,47.0,conservative,uncomplicated,appendicitis,1,8.0,8.0,no,yes,yes,yes,yes,yes,36.5,15.6,81.8,1,5.87,14.6,14.2,282.0,1,1,0
+6.56,22.5,male,135.0,41.0,conservative,uncomplicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,yes,36.4,17.4,87.1,1,4.74,12.3,13.9,318.0,1,0,0
+14.9267624914442,21.0311040566527,male,181.0,68.9,conservative,uncomplicated,appendicitis,1,4.0,5.0,yes,yes,yes,yes,no,no,36.4,9.7,61.3,0,5.77,17.5,12.8,222.0,0,0,0
+13.8097193702943,16.3846974546563,female,162.0,43.0,conservative,uncomplicated,appendicitis,1,6.0,6.0,yes,yes,no,no,yes,no,38.0,8.4,80.3,1,4.44,13.1,12.6,175.0,0,0,0
+10.735112936345,15.8163265306122,female,140.0,31.0,conservative,uncomplicated,appendicitis,1,5.0,4.0,yes,yes,no,no,yes,no,37.2,8.6,40.6,0,4.87,13.4,11.9,323.0,1,0,0
+7.709787816564,21.301775147929,female,130.0,36.0,conservative,uncomplicated,appendicitis,1,5.0,3.0,no,yes,yes,no,no,no,36.8,15.4,64.5,0,4.59,11.8,13.3,301.0,0,2,1
+12.2436687200548,15.5922935623051,male,153.0,36.5,conservative,uncomplicated,appendicitis,1,5.0,5.0,no,yes,yes,yes,yes,no,36.8,4.1,49.6,0,4.49,11.9,14.5,245.0,1,0,0
+14.2915811088296,18.3203386054801,female,167.5,51.4,conservative,uncomplicated,appendicitis,1,6.0,4.0,no,yes,yes,no,yes,no,37.2,11.2,74.7,0,4.73,13.7,12.3,322.0,0,0,0
+8.6735112936345,15.9912468964356,female,133.5,28.5,conservative,uncomplicated,appendicitis,1,6.0,4.0,no,yes,yes,no,no,no,38.2,12.5,72.2,0,4.35,12.8,12.2,295.0,0,0,0
+11.7700205338809,13.3310249307479,male,152.0,30.8,conservative,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,yes,no,37.2,12.9,75.2,1,4.5,12.6,13.2,260.0,0,3,0
+5.13894592744695,13.5570741770893,male,116.5,18.4,conservative,uncomplicated,appendicitis,1,4.0,3.0,no,no,no,no,yes,no,38.6,4.3,78.3,1,4.47,12.3,13.5,183.0,1,0,0
+9.23750855578371,20.6769968410144,male,141.5,41.4,conservative,uncomplicated,appendicitis,1,4.0,3.0,no,yes,no,no,no,no,36.8,14.9,68.9,0,4.84,12.1,14.9,311.0,1,0,0
+12.5694729637235,17.3010380622837,female,170.0,50.0,conservative,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,yes,no,37.3,13.4,84.4,1,4.3,12.3,12.9,236.0,0,0,0
+6.79,18.6,male,129.0,31.0,conservative,uncomplicated,appendicitis,1,7.0,8.0,no,yes,no,yes,no,yes,37.3,16.3,81.1,1,5.21,13.6,13.2,331.0,1,0,0
+12.5092402464066,16.7622514098251,male,144.5,35.0,conservative,uncomplicated,appendicitis,1,5.0,4.0,no,yes,yes,no,yes,yes,37.0,8.3,67.1,0,4.74,13.5,12.1,224.0,0,0,0
+15.7344284736482,18.4635778310819,male,178.0,58.5,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,yes,37.2,8.8,50.7,0,5.46,15.3,12.8,200.0,0,1,1
+13.89,26.8,female,158.0,67.0,conservative,uncomplicated,appendicitis,1,4.0,6.0,no,yes,no,yes,yes,yes,37.1,8.1,50.1,0,5.18,14.2,13.7,277.0,0,0,0
+11.8685831622177,16.8852243322661,female,151.0,38.5,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,no,39.2,9.7,70.8,0,4.75,13.1,12.4,229.0,0,0,0
+16.4380561259411,23.6194968814623,male,173.5,71.1,conservative,uncomplicated,appendicitis,1,7.0,6.0,yes,yes,no,no,no,no,38.2,21.7,84.2,1,5.19,15.2,11.9,248.0,0,0,0
+9.79055441478439,18.8622302701071,female,141.0,37.5,conservative,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,no,no,39.4,11.7,77.4,1,4.98,13.1,13.7,210.0,0,0,0
+13.700205338809,21.7738423573813,male,166.0,60.0,conservative,uncomplicated,appendicitis,1,6.0,4.0,no,yes,no,no,no,yes,37.9,12.5,73.2,0,4.69,12.7,12.1,256.0,0,0,0
+9.68104038329911,17.6047728495281,female,143.0,36.0,conservative,uncomplicated,appendicitis,1,4.0,2.0,no,yes,no,no,no,no,37.4,6.1,49.3,0,4.38,11.3,13.6,223.0,1,1,1
+11.8986995208761,16.8367346938776,male,140.0,33.0,conservative,uncomplicated,appendicitis,1,10.0,10.0,yes,yes,yes,yes,yes,yes,38.2,12.4,77.2,1,4.68,13.1,13.7,355.0,1,0,0
+16.2327173169062,17.8359096313912,male,174.0,54.0,conservative,uncomplicated,appendicitis,1,8.0,9.0,no,yes,no,yes,yes,yes,38.0,13.0,80.0,1,4.81,14.3,12.5,238.0,1,3,0
+8.25462012320329,17.6254325259516,male,136.0,32.6,conservative,uncomplicated,appendicitis,1,5.0,4.0,no,yes,yes,no,yes,yes,36.6,9.8,63.0,0,4.56,12.6,13.3,253.0,0,0,0
+11.8275154004107,17.258382642998,female,156.0,42.0,conservative,uncomplicated,appendicitis,1,9.0,5.0,yes,yes,yes,no,yes,no,37.8,10.4,70.6,0,4.82,12.7,12.6,265.0,1,0,1
+11.0691307323751,16.0957698304914,male,141.0,32.0,conservative,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,yes,no,37.2,16.1,80.9,1,4.76,13.9,12.7,294.0,0,0,0
+6.35728952772074,13.1944444444444,female,120.0,19.0,conservative,uncomplicated,appendicitis,1,8.0,6.0,yes,yes,yes,no,no,no,38.2,20.9,77.0,1,4.76,10.9,16.5,231.0,0,1,1
+7.59206023271732,12.8090888839385,female,134.0,23.0,conservative,uncomplicated,appendicitis,1,4.0,5.0,yes,yes,no,yes,no,no,37.5,7.4,54.2,0,4.9,13.5,12.4,280.0,0,0,0
+12.0164271047228,20.1698137716843,male,145.5,42.7,conservative,uncomplicated,appendicitis,1,7.0,5.0,no,yes,no,no,yes,no,37.4,18.9,85.0,1,4.69,12.6,13.7,307.0,0,0,0
+12.870636550308,29.9377470964788,male,168.5,85.0,conservative,uncomplicated,appendicitis,1,8.0,6.0,yes,yes,no,no,yes,yes,36.0,12.3,77.5,1,4.72,11.8,15.1,311.0,1,0,0
+13.4647501711157,14.7053674591226,male,169.0,42.0,conservative,uncomplicated,appendicitis,1,8.0,8.0,no,yes,yes,yes,yes,yes,36.5,18.2,89.7,1,4.97,14.5,13.9,267.0,0,0,1
+11.8466803559206,22.3081499107674,female,164.0,60.0,conservative,uncomplicated,appendicitis,1,5.0,6.0,yes,yes,no,yes,yes,no,37.4,5.4,49.8,0,4.79,13.3,12.2,237.0,0,1,0
+10.3381245722108,15.9788166544923,male,148.0,35.0,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,no,no,yes,yes,37.0,8.2,48.4,0,5.01,14.1,12.5,274.0,1,1,0
+9.1937029431896,15.4320987654321,female,144.0,32.0,conservative,uncomplicated,appendicitis,1,10.0,9.0,yes,yes,yes,yes,yes,yes,37.8,13.6,79.2,1,4.93,12.8,14.1,302.0,0,1,0
+11.2689938398357,15.9846285254303,female,156.2,39.0,conservative,uncomplicated,appendicitis,1,4.0,2.0,no,yes,no,no,no,no,37.5,8.9,57.7,0,4.87,13.8,12.7,297.0,1,0,1
+13.8562628336756,23.7963529080657,male,160.5,61.3,conservative,uncomplicated,appendicitis,1,7.0,4.0,no,yes,yes,no,yes,no,37.2,10.6,44.1,0,4.58,14.0,11.9,320.0,1,1,0
+10.735112936345,26.9750422218052,male,146.0,57.5,conservative,uncomplicated,appendicitis,1,5.0,3.0,no,yes,no,no,no,no,37.3,10.2,74.9,0,5.66,16.1,12.9,277.0,1,0,1
+11.8357289527721,17.7458448753463,male,152.0,41.0,conservative,uncomplicated,appendicitis,1,6.0,7.0,yes,yes,no,yes,no,no,38.8,11.6,62.2,0,4.92,13.6,13.2,294.0,0,0,0
+12.8158795345654,16.665915949732,male,149.0,37.0,conservative,uncomplicated,appendicitis,1,7.0,4.0,no,yes,no,no,no,no,37.5,14.8,83.3,1,5.53,12.7,13.5,282.0,1,0,0
+12.0602327173169,17.602237654321,female,144.0,36.5,conservative,uncomplicated,appendicitis,1,7.0,5.0,yes,yes,no,no,no,no,38.0,10.7,72.7,0,4.34,12.5,12.0,219.0,1,0,0
+13.82340862423,27.1111111111111,female,150.0,61.0,conservative,uncomplicated,appendicitis,1,5.0,6.0,no,yes,yes,yes,yes,yes,36.8,7.7,61.5,0,4.19,11.6,13.0,279.0,0,0,1
+12.9253935660507,23.6239816825699,male,159.5,60.1,conservative,uncomplicated,appendicitis,1,10.0,9.0,yes,yes,yes,yes,yes,yes,37.4,11.3,84.2,1,5.18,15.1,12.8,298.0,1,1,0
+10.8993839835729,22.0748115362965,female,150.5,50.0,conservative,uncomplicated,appendicitis,1,5.0,4.0,yes,yes,no,no,no,no,36.8,10.2,63.4,0,4.82,13.4,12.7,332.0,0,0,0
+12.9171800136893,19.1424691198344,female,164.5,51.8,conservative,uncomplicated,appendicitis,1,3.0,5.0,no,yes,no,yes,no,yes,37.2,6.4,38.7,0,4.61,13.8,12.4,245.0,0,0,0
+10.425735797399,16.1850253330831,male,146.0,34.5,conservative,uncomplicated,appendicitis,1,4.0,3.0,no,yes,no,no,no,no,37.0,12.4,57.9,0,5.04,14.4,12.6,365.0,0,0,0
+12.8870636550308,23.8602742340852,male,146.2,51.0,conservative,uncomplicated,appendicitis,1,4.0,4.0,no,yes,yes,no,no,yes,37.8,8.6,54.9,0,5.96,12.9,14.8,350.0,0,0,0
+11.4360027378508,17.9418172497757,male,153.0,42.0,conservative,uncomplicated,appendicitis,1,6.0,7.0,yes,yes,no,yes,no,no,37.8,13.4,58.6,0,4.81,14.0,12.8,381.0,0,0,0
+9.45653661875428,14.2192906574394,male,136.0,26.3,conservative,uncomplicated,appendicitis,1,4.0,2.0,no,no,no,no,yes,no,37.8,7.3,79.1,1,4.59,12.2,13.1,308.0,1,1,0
+14.4832306639288,22.6629935720845,female,165.0,61.7,conservative,uncomplicated,appendicitis,1,4.0,6.0,yes,yes,no,yes,yes,no,37.2,9.0,57.3,0,4.54,12.7,12.9,264.0,0,0,0
+15.3456536618754,15.6157049375372,male,164.0,42.0,conservative,uncomplicated,appendicitis,1,5.0,3.0,no,yes,no,no,no,no,36.8,10.1,65.4,0,5.2,14.9,12.9,221.0,1,0,0
+12.3887748117728,16.340807060504,female,158.4,41.0,conservative,uncomplicated,appendicitis,1,6.0,5.0,no,yes,yes,yes,no,no,37.0,13.1,71.0,0,4.6,13.1,12.7,222.0,1,0,0
+12.1889117043121,18.5910367469641,male,159.0,47.0,conservative,uncomplicated,appendicitis,1,5.0,3.0,no,yes,yes,no,no,no,37.0,11.7,67.2,0,5.08,14.6,12.7,284.0,0,0,0
+14.2450376454483,22.4323025156225,male,158.0,56.0,conservative,uncomplicated,appendicitis,1,5.0,5.0,no,yes,no,no,yes,yes,36.8,8.9,86.4,1,4.56,13.2,13.8,210.0,1,0,0
+15.2142368240931,35.3798126951093,female,155.0,85.0,conservative,uncomplicated,appendicitis,1,7.0,8.0,yes,yes,no,yes,yes,yes,36.8,12.4,68.4,0,4.62,12.8,13.8,542.0,0,1,0
+15.709787816564,19.8412698412698,female,168.0,56.0,conservative,uncomplicated,appendicitis,1,6.0,7.0,yes,yes,yes,yes,yes,yes,37.0,9.2,70.2,0,5.1,14.4,14.2,238.0,0,0,1
+9.76317590691307,14.1842200551886,male,141.5,28.4,conservative,uncomplicated,appendicitis,1,4.0,4.0,yes,yes,no,no,no,yes,36.0,6.9,43.5,0,4.94,13.9,12.2,226.0,0,0,0
+9.89,21.08,male,154.0,50.0,primary surgical,uncomplicated,appendicitis,1,6.0,4.0,yes,yes,yes,no,no,no,37.0,13.5,68.4,0,4.43,12.8,12.0,237.0,0,0,0
+14.79,17.37,male,154.0,41.2,primary surgical,uncomplicated,appendicitis,1,4.0,3.0,yes,yes,yes,no,no,no,36.3,5.0,50.3,0,5.19,13.7,14.0,286.0,0,0,0
+5.72,14.36,female,118.0,20.0,primary surgical,uncomplicated,appendicitis,1,5.0,4.0,no,yes,yes,no,no,yes,39.1,7.7,70.0,0,4.51,12.2,12.9,221.0,1,1,0
+8.13,18.51,female,123.0,28.0,primary surgical,complicated,appendicitis,1,7.0,5.0,no,yes,yes,no,yes,yes,38.0,8.1,81.7,1,5.31,14.4,13.0,215.0,1,3,1
+13.16,15.94,female,168.0,45.0,primary surgical,uncomplicated,appendicitis,1,5.0,6.0,no,yes,no,yes,no,yes,36.7,12.7,65.4,0,4.78,12.4,13.7,357.0,0,1,0
+6.49,16.24,male,119.0,23.0,primary surgical,complicated,appendicitis,1,6.0,7.0,no,yes,yes,yes,no,yes,38.9,9.3,77.8,1,4.92,13.4,12.7,187.0,1,0,0
+11.24,21.49,male,151.0,49.0,primary surgical,complicated,appendicitis,1,10.0,9.0,yes,yes,yes,yes,yes,yes,37.8,24.3,80.3,1,4.57,13.2,11.7,355.0,1,3,0
+12.66,17.6,male,145.0,37.0,secondary surgical,complicated,appendicitis,1,7.0,6.0,no,yes,yes,no,yes,yes,36.3,16.3,92.1,1,5.01,14.0,13.1,259.0,1,3,0
+10.32,14.66,female,130.6,25.0,primary surgical,uncomplicated,chronische Appendizitis,1,5.0,3.0,no,yes,yes,no,no,yes,37.5,4.4,38.6,0,4.79,13.2,12.8,253.0,0,0,0
+16.25,31.38,female,174.0,95.0,secondary surgical,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,yes,yes,35.8,15.2,64.3,0,5.07,14.0,13.0,347.0,1,3,1
+12.97,17.8,male,148.0,39.0,primary surgical,uncomplicated,appendicitis,1,6.0,4.0,no,yes,yes,no,yes,yes,37.2,10.1,73.5,0,5.4,15.1,12.5,308.0,1,0,0
+9.25,18.81,male,144.0,39.0,secondary surgical,uncomplicated,appendicitis,1,8.0,6.0,no,yes,yes,no,yes,yes,36.8,16.4,92.2,1,4.54,12.9,12.7,277.0,0,0,0
+6.64,15.37,male,121.0,22.5,primary surgical,complicated,appendicitis,1,9.0,7.0,yes,yes,yes,no,yes,yes,38.8,14.0,77.1,1,4.52,11.7,13.0,187.0,1,0,0
+12.52,15.65,male,143.0,32.0,primary surgical,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,no,yes,36.4,13.2,85.5,1,4.99,14.7,12.8,255.0,1,0,0
+11.96,21.88,female,160.0,56.0,primary surgical,uncomplicated,appendicitis,1,4.0,6.0,no,yes,yes,no,yes,yes,37.7,19.9,84.3,1,4.56,12.3,13.0,323.0,1,0,0
+11.42,14.54,male,140.0,28.5,primary surgical,uncomplicated,appendicitis,1,8.0,6.0,no,yes,yes,no,yes,yes,35.9,25.3,84.2,1,4.84,13.9,12.1,296.0,1,0,1
+13.72,18.19,female,177.0,57.0,primary surgical,uncomplicated,appendicitis,1,7.0,8.0,no,yes,yes,yes,no,yes,38.7,15.7,80.4,1,3.85,11.7,12.4,234.0,1,0,1
+3.96,16.0,female,100.0,16.0,primary surgical,uncomplicated,appendicitis,1,8.0,9.0,no,yes,no,yes,yes,yes,39.2,26.6,85.0,1,4.2,11.6,13.7,349.0,1,0,1
+7.44,15.09,female,130.0,25.5,primary surgical,complicated,appendicitis,1,8.0,7.0,no,yes,no,no,yes,yes,38.3,17.8,87.3,1,4.44,12.3,11.6,288.0,1,0,0
+11.24,16.89,female,150.0,38.0,primary surgical,uncomplicated,appendicitis,1,9.0,9.0,no,yes,yes,yes,yes,yes,38.1,10.7,85.7,1,4.82,13.5,12.6,272.0,1,0,0
+10.46,14.7,male,133.0,26.0,primary surgical,uncomplicated,appendicitis,1,7.0,9.0,yes,yes,yes,no,yes,yes,36.7,14.3,91.5,1,4.85,13.0,12.9,328.0,1,0,0
+12.83,16.02,male,158.0,40.0,primary surgical,uncomplicated,appendicitis,1,8.0,6.0,no,yes,yes,no,no,yes,38.2,10.2,86.2,1,4.58,12.0,12.9,446.0,0,3,0
+2.6,14.88,male,97.0,14.0,primary surgical,uncomplicated,appendicitis,1,5.0,5.0,no,yes,no,no,yes,yes,37.3,8.2,61.0,0,4.35,9.7,16.1,221.0,1,1,0
+15.68,19.6,female,166.0,54.0,primary surgical,uncomplicated,appendicitis,1,9.0,7.0,yes,yes,yes,no,yes,yes,36.3,14.9,86.1,1,4.45,11.6,13.6,236.0,0,0,0
+10.71,18.74,male,147.0,40.5,primary surgical,uncomplicated,appendicitis,1,8.0,8.0,no,yes,yes,yes,yes,yes,36.7,19.8,91.3,1,4.77,13.9,12.4,357.0,1,1,0
+10.79,29.98,female,178.0,95.0,primary surgical,complicated,appendicitis,1,10.0,7.0,yes,yes,yes,no,yes,yes,37.4,25.8,97.7,1,4.66,13.2,12.7,335.0,1,1,0
+15.0,19.62,male,182.0,65.0,primary surgical,uncomplicated,appendicitis,1,8.0,6.0,yes,yes,yes,no,yes,yes,37.0,10.3,74.7,0,4.94,15.2,12.6,190.0,1,0,0
+15.57,18.21,male,183.0,61.0,primary surgical,uncomplicated,appendicitis,1,8.0,7.0,yes,yes,no,no,yes,yes,36.8,13.6,87.4,1,5.06,15.4,12.0,234.0,1,0,0
+11.55,14.43,male,143.0,29.5,primary surgical,complicated,appendicitis,1,9.0,7.0,no,yes,yes,no,yes,yes,38.3,18.6,80.0,1,4.46,12.2,12.7,234.0,1,0,0
+9.25,15.23,male,138.0,29.0,primary surgical,complicated,appendicitis,1,7.0,5.0,no,yes,no,no,yes,no,37.5,23.8,79.2,1,4.91,13.7,79.2,353.0,0,0,0
+5.48,15.34,male,117.0,21.0,primary surgical,uncomplicated,appendicitis,1,9.0,9.0,no,yes,yes,yes,yes,yes,38.7,15.1,88.9,1,4.82,13.4,12.7,288.0,1,1,0
+9.45,20.27,female,149.0,45.0,primary surgical,uncomplicated,appendicitis,1,8.0,6.0,no,yes,no,no,yes,yes,37.4,17.7,85.6,1,4.88,13.4,12.9,240.0,1,0,0
+16.9,33.08,female,173.0,99.0,primary surgical,complicated,appendicitis,1,8.0,6.0,no,yes,yes,no,yes,yes,36.9,26.4,83.6,1,4.59,14.2,12.6,237.0,1,0,0
+12.32,16.02,male,154.0,37.8,primary surgical,complicated,appendicitis,1,9.0,7.0,yes,yes,no,no,yes,yes,37.6,15.7,83.3,1,4.8,13.9,12.3,306.0,1,0,0
+6.64,12.82,male,128.0,21.0,primary surgical,complicated,appendicitis,1,9.0,7.0,no,yes,yes,no,yes,yes,38.7,17.9,94.2,1,4.91,14.0,12.5,295.0,1,0,0
+12.5,14.91,male,151.0,34.0,secondary surgical,uncomplicated,appendicitis,1,8.0,5.0,no,yes,yes,no,yes,yes,37.4,14.2,78.9,1,4.85,12.9,13.2,368.0,1,0,0
+17.43,8.95,female,129.0,29.0,primary surgical,complicated,appendicitis,1,8.0,8.0,no,yes,yes,no,yes,yes,37.0,19.4,92.9,1,4.74,13.4,12.0,261.0,1,0,1
+8.2,13.75,female,133.5,24.5,primary surgical,complicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,yes,37.0,15.7,87.8,1,4.75,12.8,11.9,285.0,1,1,0
+15.38,23.41,female,163.0,62.2,primary surgical,uncomplicated,appendicitis,1,9.0,6.0,no,yes,yes,no,yes,yes,37.3,19.4,84.6,1,4.56,13.6,84.6,221.0,1,1,0
+3.43,14.58,male,98.0,14.0,primary surgical,complicated,appendicitis,1,10.0,8.0,yes,yes,yes,no,yes,yes,37.9,16.1,84.0,1,4.2,11.3,12.7,291.0,0,0,0
+16.59,21.73,male,179.5,70.0,primary surgical,complicated,Gastroenteritis,1,6.0,4.0,no,yes,yes,no,yes,yes,37.7,37.7,88.0,1,4.89,15.0,13.2,181.0,1,1,1
+16.13,19.93,male,182.0,66.0,primary surgical,complicated,appendicitis,1,8.0,7.0,yes,yes,yes,no,yes,yes,37.3,22.5,87.1,1,4.74,14.4,12.7,153.0,1,2,1
+14.27,23.51,male,165.0,64.0,primary surgical,complicated,appendicitis,1,9.0,6.0,no,yes,yes,no,yes,yes,37.4,14.3,87.0,1,4.92,13.2,12.5,336.0,1,0,0
+11.46,16.87,female,154.0,40.0,primary surgical,uncomplicated,appendicitis,1,9.0,7.0,no,yes,yes,no,yes,yes,37.6,15.5,78.0,1,4.96,14.0,12.3,254.0,1,0,1
+4.28,13.38,male,116.0,18.0,primary surgical,complicated,appendicitis,1,9.0,7.0,no,yes,yes,no,yes,yes,38.9,18.5,87.0,1,4.34,12.2,12.6,402.0,1,0,0
+4.23,15.83,male,92.0,13.4,primary surgical,uncomplicated,"diabetische Ketoazidose, Myokarditis",1,3.0,2.0,no,no,no,no,yes,yes,37.9,4.0,74.0,0,5.38,13.0,13.7,456.0,1,0,0
+8.29,14.12,male,132.0,24.6,primary surgical,uncomplicated,appendicitis,1,9.0,7.0,no,yes,yes,no,yes,yes,37.9,20.0,83.4,1,4.36,11.2,13.2,354.0,1,0,0
+9.14,15.25,male,135.5,28.0,primary surgical,complicated,appendicitis,1,8.0,7.0,no,yes,no,no,yes,yes,38.6,20.3,91.0,1,4.93,13.6,13.2,366.0,1,1,0
+10.49,16.24,male,143.0,33.2,primary surgical,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,no,yes,38.6,16.9,61.0,0,4.61,12.8,13.4,230.0,1,0,0
+11.37,20.93,male,145.0,44.0,primary surgical,uncomplicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,yes,36.4,15.2,86.9,1,4.9,13.6,86.9,281.0,0,0,0
+3.2,14.79,male,104.0,16.0,primary surgical,complicated,appendicitis,1,6.0,5.0,no,no,no,no,yes,yes,36.8,14.6,79.0,1,4.63,12.4,12.5,401.0,1,1,0
+11.05,15.32,female,131.5,26.5,primary surgical,complicated,appendicitis,1,6.0,7.0,no,no,no,yes,yes,yes,39.0,15.9,91.5,1,4.28,12.2,13.0,272.0,1,0,1
+15.5,20.03,female,158.0,50.0,primary surgical,complicated,appendicitis,1,5.0,4.0,no,no,no,no,yes,yes,37.2,20.9,87.0,1,4.36,11.9,15.6,165.0,1,1,1
+8.58,17.48,male,131.0,30.0,primary surgical,uncomplicated,appendicitis,1,5.0,4.0,no,yes,no,no,no,yes,36.2,11.7,64.0,0,4.87,13.6,13.0,263.0,0,1,1
+8.06,14.18,male,142.0,28.6,primary surgical,complicated,appendicitis,1,8.0,7.0,no,yes,no,no,yes,yes,37.6,14.8,80.0,1,4.64,12.3,13.7,197.0,1,0,0
+4.69,14.55,female,105.5,16.2,primary surgical,uncomplicated,appendicitis,1,7.0,5.0,no,yes,no,no,yes,yes,37.5,14.5,67.0,0,4.54,10.6,15.2,326.0,0,0,0
+12.43,18.66,female,157.0,46.0,primary surgical,complicated,appendicitis,1,9.0,7.0,yes,yes,yes,no,yes,yes,37.1,16.4,90.2,1,4.62,13.5,12.7,256.0,1,0,0
+7.25,14.73,male,129.5,24.7,primary surgical,uncomplicated,appendicitis,1,8.0,9.0,no,yes,no,yes,yes,yes,37.5,19.1,79.9,1,4.61,11.7,13.2,360.0,0,0,0
+9.26,14.06,male,138.6,27.0,primary surgical,complicated,appendicitis,1,6.0,4.0,no,yes,no,no,no,yes,38.0,19.0,91.2,1,5.24,14.8,12.6,291.0,1,0,0
+15.11,24.97,male,179.0,80.0,primary surgical,complicated,appendicitis,1,3.0,3.0,no,yes,no,no,no,yes,36.9,6.9,74.2,0,4.54,14.1,12.3,170.0,1,0,1
+8.86242299794661,15.1384083044983,male,136.0,28.0,primary surgical,uncomplicated,appendicitis,1,8.0,5.0,no,yes,yes,no,yes,no,36.8,24.2,88.8,1,5.02,14.7,12.9,344.0,1,0,0
+5.92470910335387,12.9273197357081,male,118.0,18.0,primary surgical,uncomplicated,appendicitis,1,7.0,8.0,no,yes,no,no,yes,yes,37.0,23.5,86.1,0,5.09,13.2,13.8,324.0,1,0,0
+8.68,16.6,male,131.9,28.55,secondary surgical,uncomplicated,appendicitis,1,2.0,2.0,no,yes,no,no,no,no,36.0,8.4,70.9,0,5.12,14.8,12.7,383.0,0,0,0
+11.4770704996578,29.2421086364365,female,158.0,73.0,primary surgical,uncomplicated,appendicitis,1,9.0,9.0,no,yes,yes,yes,yes,yes,38.0,18.4,80.0,1,4.61,12.5,13.5,289.0,1,0,0
+9.08145106091718,17.6536749963323,male,143.0,36.1,primary surgical,uncomplicated,appendicitis,1,8.0,6.0,no,yes,no,no,yes,no,38.2,21.4,85.2,1,4.81,13.7,12.5,279.0,1,0,0
+13.8945927446954,18.0259573786252,female,158.0,45.0,primary surgical,uncomplicated,appendicitis,1,8.0,5.0,yes,yes,yes,no,no,no,37.5,15.8,76.4,1,4.62,13.5,12.8,263.0,0,0,0
+9.74674880219028,18.4850114920045,female,143.0,37.8,primary surgical,uncomplicated,appendicitis,1,10.0,9.0,yes,yes,yes,yes,yes,yes,37.5,17.2,87.0,1,4.68,12.9,12.5,270.0,1,0,0
+12.7775496235455,17.908855357415,female,162.0,47.0,primary surgical,uncomplicated,appendicitis,1,10.0,10.0,yes,yes,yes,yes,yes,yes,38.2,16.1,85.7,1,4.3,12.2,11.7,223.0,1,0,0
+10.8966461327858,20.2847985719502,female,157.0,50.0,primary surgical,complicated,appendicitis,1,9.0,5.0,no,yes,yes,no,yes,no,37.8,27.5,89.7,1,4.58,12.1,14.0,435.0,1,1,0
+11.2580424366872,16.8852243322661,male,151.0,38.5,primary surgical,uncomplicated,appendicitis,1,7.0,5.0,no,yes,yes,no,no,yes,36.8,18.8,88.9,1,5.07,13.6,12.9,357.0,1,0,0
+11.337440109514,21.7709405693789,female,157.2,53.8,primary surgical,uncomplicated,appendicitis,1,7.0,5.0,no,yes,no,no,no,no,38.2,10.2,75.6,1,4.4,12.3,12.5,245.0,1,0,1
+10.5051334702259,14.9251668716574,male,134.5,27.0,primary surgical,uncomplicated,appendicitis,1,8.0,5.0,no,yes,no,no,yes,no,37.4,12.8,81.0,1,5.03,12.5,14.1,286.0,1,0,0
+12.7994524298426,22.0603537981269,male,155.0,53.0,primary surgical,complicated,appendicitis,1,10.0,10.0,yes,yes,yes,yes,yes,yes,38.4,25.0,82.9,1,4.56,10.7,14.8,508.0,1,0,0
+12.7638603696099,18.0847709562632,male,149.0,40.15,primary surgical,uncomplicated,appendicitis,1,8.0,6.0,no,yes,no,no,yes,no,38.4,10.0,87.4,1,5.08,14.9,12.5,207.0,1,0,0
+12.2929500342231,22.3111111111111,male,150.0,50.2,primary surgical,uncomplicated,appendicitis,1,7.0,6.0,yes,yes,no,no,yes,no,37.2,18.4,75.5,1,5.22,14.9,13.1,263.0,0,0,0
+15.8767967145791,19.8351629561233,female,171.0,58.0,primary surgical,uncomplicated,appendicitis,1,8.0,9.0,no,yes,no,yes,yes,yes,38.9,16.4,79.5,1,4.56,13.6,12.6,241.0,1,0,0
+10.1793292265572,38.1562212183676,male,151.0,87.0,primary surgical,uncomplicated,appendicitis,1,8.0,7.0,no,yes,yes,yes,no,no,38.2,15.1,81.0,1,5.12,14.0,12.1,267.0,1,0,0
+5.11156741957563,14.2399430402278,female,106.0,16.0,primary surgical,complicated,appendicitis,1,8.0,7.0,yes,yes,no,no,yes,no,38.5,18.0,91.1,1,3.79,11.4,12.8,383.0,0,0,0
+17.284052019165,19.4931773879142,male,171.0,57.0,primary surgical,uncomplicated,appendicitis,1,6.0,4.0,no,yes,no,no,yes,no,36.8,12.6,70.4,0,5.29,14.9,12.6,332.0,1,1,0
+14.6228610540726,12.1911864892969,female,167.0,34.0,primary surgical,complicated,appendicitis,1,7.0,5.0,no,yes,no,no,yes,no,37.8,11.5,84.5,1,4.56,14.3,12.2,297.0,0,0,1
+9.1772758384668,16.4437764160275,female,139.5,32.0,primary surgical,uncomplicated,appendicitis,1,9.0,5.0,no,yes,yes,no,yes,no,37.8,15.4,77.2,1,4.91,13.4,13.1,208.0,1,2,0
+13.1937029431896,21.192742415229,male,164.0,57.0,primary surgical,uncomplicated,appendicitis,1,6.0,7.0,no,yes,no,yes,yes,no,37.0,15.4,89.4,1,5.04,13.9,13.1,206.0,0,0,0
+11.7618069815195,15.0657414170928,male,148.0,33.0,primary surgical,uncomplicated,appendicitis,1,4.0,4.0,no,yes,yes,yes,no,no,37.5,6.5,72.8,0,4.74,13.2,12.6,169.0,0,0,0
+16.2162902121834,25.2347264642668,female,169.5,72.5,primary surgical,complicated,appendicitis,1,9.0,6.0,yes,yes,yes,no,yes,no,37.8,16.6,86.4,1,4.32,13.5,12.3,298.0,0,0,0
+9.27583846680356,16.2511542012927,male,142.5,33.0,primary surgical,uncomplicated,appendicitis,1,5.0,4.0,no,yes,no,no,no,yes,37.0,15.7,74.9,0,4.59,12.8,13.0,279.0,0,0,0
+9.57973990417522,14.1758494031221,female,132.0,24.7,primary surgical,complicated,appendicitis,1,10.0,10.0,yes,yes,yes,yes,yes,yes,38.4,13.5,80.3,1,5.04,13.9,13.1,277.0,1,1,0
+16.7830253251198,20.5761316872428,male,162.0,54.0,primary surgical,complicated,appendicitis,1,5.0,6.0,no,yes,no,yes,yes,yes,37.3,6.2,71.8,0,4.95,12.6,13.8,232.0,0,1,0
+9.66461327857632,16.2154857889284,male,149.0,36.0,primary surgical,uncomplicated,appendicitis,1,10.0,10.0,yes,yes,yes,yes,yes,yes,38.0,19.9,79.0,1,4.63,13.1,13.8,282.0,1,0,0
+14.7926078028747,23.2254318478734,male,166.0,64.0,primary surgical,uncomplicated,appendicitis,1,7.0,8.0,yes,yes,no,yes,yes,no,36.8,20.6,83.8,1,5.63,15.3,12.9,315.0,0,0,0
+10.2067077344285,15.5879122825663,female,145.5,33.0,primary surgical,complicated,appendicitis,1,9.0,8.0,yes,yes,no,no,yes,yes,38.4,17.0,88.4,1,4.95,13.5,12.7,276.0,1,3,0
+9.37166324435318,18.7905938099971,male,135.5,34.5,primary surgical,uncomplicated,appendicitis,1,6.0,7.0,yes,yes,yes,yes,yes,no,36.8,9.9,79.4,1,4.93,12.4,12.6,198.0,0,0,0
+9.76591375770021,17.3542842009807,female,141.2,34.6,primary surgical,uncomplicated,appendicitis,1,9.0,6.0,no,yes,yes,no,yes,yes,37.2,30.5,79.2,1,5.11,14.6,13.8,366.0,0,1,0
+13.9876796714579,19.0019018511905,female,173.5,57.2,primary surgical,uncomplicated,appendicitis,1,8.0,9.0,yes,yes,no,yes,yes,yes,37.2,16.1,81.9,1,4.46,12.3,13.5,264.0,0,0,0
+10.1492128678987,18.4444444444444,female,150.0,41.5,primary surgical,uncomplicated,appendicitis,1,9.0,7.0,yes,yes,yes,no,yes,yes,38.1,13.9,81.3,1,4.48,12.5,12.8,208.0,0,0,0
+12.3093771389459,20.4444444444444,female,150.0,46.0,primary surgical,uncomplicated,appendicitis,1,7.0,8.0,yes,yes,no,yes,no,no,38.5,17.3,88.0,1,4.98,14.6,12.5,274.0,0,0,0
+16.5092402464066,20.7756232686981,male,190.0,75.0,primary surgical,complicated,appendicitis,1,10.0,10.0,yes,yes,yes,yes,yes,yes,37.6,18.7,92.1,1,5.29,14.9,13.1,359.0,1,0,0
+16.8158795345654,18.5901249256395,female,164.0,50.0,primary surgical,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,yes,no,no,37.6,10.7,71.7,0,5.23,14.7,12.7,253.0,1,0,0
+10.3353867214237,19.4286914513758,male,138.0,37.0,primary surgical,complicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,no,38.8,23.7,88.0,1,4.8,13.0,14.5,356.0,0,1,0
+3.56741957563313,11.3421550094518,male,115.0,15.0,primary surgical,complicated,appendicitis,1,8.0,9.0,no,yes,no,yes,yes,yes,38.2,14.3,83.8,1,4.78,12.5,13.0,225.0,1,0,0
+15.8603696098563,20.4381655849977,male,167.0,57.0,primary surgical,uncomplicated,appendicitis,1,8.0,8.0,no,yes,yes,yes,yes,no,38.6,21.9,85.4,1,5.44,16.2,12.5,210.0,0,0,0
+10.362765229295,17.2395718063111,male,146.5,37.0,primary surgical,uncomplicated,appendicitis,1,7.0,5.0,no,yes,no,no,yes,no,36.4,12.9,84.8,1,5.2,13.5,12.4,288.0,1,0,0
+14.1984941820671,19.9347597124646,female,156.3,48.7,primary surgical,uncomplicated,appendicitis,1,5.0,3.0,no,yes,yes,no,yes,no,37.2,8.1,43.5,0,4.79,14.0,11.5,236.0,1,0,0
+4.0848733744011,14.5957568310423,male,104.7,16.0,primary surgical,uncomplicated,appendicitis,1,7.0,4.0,no,yes,no,no,no,no,37.8,16.3,90.6,1,4.69,8.2,21.6,446.0,1,0,0
+5.11156741957563,16.3495838287753,female,116.0,22.0,primary surgical,uncomplicated,appendicitis,1,9.0,6.0,no,yes,yes,no,yes,no,40.2,19.4,89.7,1,4.55,12.8,13.0,387.0,1,2,0
+7.26351813826147,13.9258771976361,male,122.8,21.0,primary surgical,uncomplicated,appendicitis,1,8.0,7.0,no,yes,yes,yes,no,yes,37.8,15.1,84.0,1,5.0,13.6,14.6,250.0,0,0,1
+16.9308692676249,19.1515847936417,female,177.0,60.0,primary surgical,complicated,appendicitis,1,10.0,10.0,yes,yes,yes,yes,yes,yes,38.2,20.4,86.6,1,5.14,12.4,14.0,316.0,1,0,0
+11.9096509240246,15.9735537190083,male,137.5,30.2,primary surgical,uncomplicated,appendicitis,1,8.0,5.0,no,yes,yes,no,yes,no,37.5,25.7,90.2,1,4.73,13.3,12.3,414.0,0,0,0
+11.958932238193,24.8590735618501,male,169.0,71.0,primary surgical,uncomplicated,appendicitis,1,9.0,6.0,yes,yes,yes,no,yes,yes,36.9,13.1,83.8,1,4.78,12.2,14.4,249.0,1,0,0
+10.8720054757016,14.8099173553719,male,137.5,28.0,primary surgical,complicated,appendicitis,1,6.0,4.0,yes,yes,yes,no,yes,no,37.6,10.3,68.1,0,5.49,14.8,12.2,223.0,0,0,0
+14.1984941820671,20.9571711629325,female,162.0,55.0,primary surgical,complicated,appendicitis,1,9.0,6.0,yes,yes,yes,no,yes,yes,37.2,17.1,84.6,1,3.62,10.0,14.2,443.0,1,2,0
+13.4729637234771,23.309053069719,male,155.0,56.0,primary surgical,complicated,appendicitis,1,9.0,7.0,yes,yes,no,no,yes,yes,38.4,27.3,78.6,1,5.34,15.6,12.8,277.0,1,2,0
+15.8986995208761,19.1843677069736,female,159.0,48.5,primary surgical,uncomplicated,appendicitis,1,6.0,7.0,yes,yes,yes,yes,yes,yes,37.2,7.6,64.4,0,4.65,13.8,12.5,361.0,0,0,0
+11.8083504449008,20.5456936226167,female,156.0,50.0,primary surgical,uncomplicated,appendicitis,1,6.0,4.0,no,yes,no,no,no,no,37.4,13.6,76.5,1,5.02,13.8,13.0,292.0,0,0,0
+12.145106091718,14.4211900219969,male,165.5,39.5,primary surgical,uncomplicated,appendicitis,1,5.0,4.0,no,yes,no,no,yes,no,36.8,12.5,74.9,0,4.85,13.6,12.9,283.0,0,0,0
+11.3839835728953,21.0828132906055,male,154.0,50.0,primary surgical,uncomplicated,appendicitis,1,8.0,9.0,no,yes,no,yes,yes,yes,38.5,24.1,86.0,1,4.81,13.6,12.5,362.0,0,0,0
+14.9514031485284,20.3125,female,160.0,52.0,secondary surgical,uncomplicated,appendicitis,1,5.0,4.0,yes,yes,yes,no,no,no,36.1,7.9,51.8,0,5.03,14.3,12.8,205.0,1,0,0
+12.829568788501,19.1326530612245,female,168.0,54.0,primary surgical,complicated,appendicitis,1,8.0,7.0,yes,yes,no,no,no,yes,38.2,13.1,78.8,1,4.77,14.2,11.7,192.0,0,3,0
+17.5222450376454,31.8418314255983,female,155.0,76.5,primary surgical,uncomplicated,appendicitis,1,4.0,5.0,yes,yes,yes,yes,no,no,37.3,8.4,53.5,0,4.69,13.4,13.0,341.0,0,0,0
+14.5872689938398,28.4352399737015,female,156.0,69.2,primary surgical,uncomplicated,appendicitis,1,4.0,3.0,yes,yes,yes,no,no,no,36.5,7.8,50.7,0,4.61,13.4,12.6,284.0,0,0,0
+5.01300479123888,14.8930153643133,male,103.0,15.8,primary surgical,uncomplicated,appendicitis,1,3.0,3.0,no,yes,no,no,yes,no,37.3,13.1,68.4,0,4.27,11.5,12.6,259.0,0,0,0
+12.4709103353867,15.3739337433049,female,142.0,31.0,primary surgical,uncomplicated,appendicitis,1,9.0,6.0,yes,yes,yes,no,yes,no,37.9,12.2,77.2,1,5.16,14.6,12.1,247.0,0,0,0
+11.0308008213552,24.6163230184405,male,151.5,56.5,primary surgical,uncomplicated,appendicitis,1,6.0,4.0,no,yes,no,no,no,no,37.8,11.0,80.2,1,4.85,13.7,12.9,263.0,0,0,0
+8.75838466803559,19.8123652467805,male,131.0,34.0,primary surgical,uncomplicated,appendicitis,1,7.0,5.0,no,yes,yes,no,yes,no,36.9,20.3,87.7,1,4.69,12.9,11.9,236.0,0,0,0
+13.1854893908282,24.5905769715294,male,157.5,61.0,primary surgical,uncomplicated,appendicitis,1,6.0,5.0,no,yes,no,no,no,no,38.5,18.5,84.5,1,5.07,13.5,12.6,347.0,0,0,0
+6.48049281314168,12.1527777777778,male,120.0,17.5,primary surgical,uncomplicated,appendicitis,1,6.0,4.0,no,yes,no,no,no,no,36.8,16.9,78.4,1,4.73,13.0,12.3,278.0,1,3,0
+13.4866529774127,18.4265342092613,female,158.0,46.0,primary surgical,uncomplicated,appendicitis,1,2.0,2.0,no,yes,no,no,no,no,37.2,6.9,51.0,0,4.45,13.5,12.0,302.0,0,0,0
+14.6310746064339,18.4406465799931,female,161.0,47.8,primary surgical,uncomplicated,appendicitis,1,7.0,6.0,no,yes,no,no,yes,no,39.1,12.6,80.1,1,4.25,13.3,12.1,208.0,0,0,0
+11.0116358658453,13.708875739645,female,162.5,36.2,primary surgical,complicated,appendicitis,1,6.0,5.0,no,yes,no,no,yes,yes,40.0,21.7,79.0,1,5.1,12.8,14.0,216.0,1,1,0
+10.1190965092402,15.41,male,140.0,30.2,primary surgical,complicated,appendicitis,1,9.0,9.0,no,yes,yes,yes,yes,yes,39.8,13.8,79.0,1,4.56,12.9,12.2,246.0,1,3,0
+10.1711156741958,16.2833299409729,female,144.5,34.0,primary surgical,uncomplicated,appendicitis,1,7.0,6.0,yes,yes,no,no,yes,no,37.0,16.8,87.1,1,4.72,13.0,13.2,297.0,0,0,0
+17.0540725530459,24.5089457652043,female,169.0,70.0,primary surgical,uncomplicated,appendicitis,1,7.0,6.0,yes,yes,no,no,yes,no,38.0,11.2,67.7,0,4.05,13.3,11.8,243.0,0,0,0
+12.3121149897331,24.621832865384,female,157.4,61.0,primary surgical,complicated,appendicitis,1,10.0,9.0,yes,yes,yes,yes,yes,no,38.0,17.9,83.5,1,5.25,14.5,13.3,252.0,1,1,1
+8.63791923340178,21.3559688581315,male,136.0,39.5,primary surgical,uncomplicated,appendicitis,1,9.0,8.0,no,yes,yes,yes,yes,no,39.0,15.8,77.9,1,5.37,14.2,14.2,350.0,1,1,0
+13.8288843258042,23.828125,male,160.0,61.0,primary surgical,uncomplicated,appendicitis,1,6.0,4.0,no,yes,no,no,yes,no,37.5,12.9,70.3,0,4.61,13.3,13.3,241.0,0,0,0
+14.6475017111567,17.8427100571005,female,162.3,47.0,primary surgical,complicated,appendicitis,1,6.0,5.0,no,yes,no,no,yes,no,38.0,14.6,74.9,0,4.58,12.8,13.6,251.0,0,0,0
+10.7707049965777,21.79,male,150.0,49.0,primary surgical,complicated,appendicitis,1,9.0,9.0,yes,yes,no,yes,yes,yes,37.8,22.5,83.5,1,5.49,14.9,13.4,260.0,1,0,0
+14.3983572895277,17.0363998343726,female,161.8,44.6,secondary surgical,uncomplicated,appendicitis,1,2.0,4.0,no,yes,no,yes,no,no,37.2,6.7,56.1,0,5.27,15.8,12.6,315.0,0,0,0
+7.99,13.55,female,128.0,22.1,primary surgical,uncomplicated,Adhäsionen des Colon ascendens,1,5.0,4.0,no,yes,yes,no,yes,yes,36.5,7.0,57.4,0,4.73,13.8,12.1,251.0,1,0,0
+12.041067761807,15.2223985540788,female,170.4,44.2,primary surgical,complicated,appendicitis,1,8.0,6.0,no,yes,no,no,yes,no,38.1,19.4,86.0,1,4.76,12.8,13.2,286.0,1,0,1
+10.99,19.17,male,148.0,42.0,secondary surgical,uncomplicated,appendicitis,1,8.0,6.0,no,yes,no,no,yes,yes,37.5,18.5,76.6,1,5.51,15.3,13.3,222.0,0,0,0
+11.5482546201232,17.529432132964,female,152.0,40.5,primary surgical,uncomplicated,appendicitis,1,9.0,7.0,no,yes,yes,yes,yes,no,37.8,12.6,85.1,1,5.04,14.7,12.3,255.0,1,1,0
+14.6036960985626,29.2378037034137,male,179.4,94.1,primary surgical,complicated,appendicitis,1,7.0,4.0,no,no,yes,no,yes,no,39.5,16.2,77.9,1,4.88,14.5,14.0,233.0,1,3,0
+14.3518138261465,19.7359764922591,female,151.0,45.0,secondary surgical,uncomplicated,appendicitis,1,4.0,6.0,no,yes,no,yes,yes,yes,38.0,8.8,58.5,0,4.49,13.8,12.2,246.0,0,0,0
+14.9924709103354,19.909972299169,female,152.0,46.0,primary surgical,uncomplicated,appendicitis,1,5.0,3.0,no,yes,no,no,no,no,37.3,14.6,68.5,0,4.49,12.7,12.8,328.0,0,0,0
+7.19507186858316,14.2955494186377,male,129.3,23.9,primary surgical,uncomplicated,appendicitis,1,9.0,8.0,yes,yes,no,yes,yes,no,37.5,17.8,77.0,1,4.97,14.3,12.7,345.0,1,0,0
+11.5099247091034,18.1714405525982,male,146.5,39.0,primary surgical,uncomplicated,appendicitis,1,2.0,2.0,no,yes,no,no,no,no,36.8,9.3,70.0,0,4.64,13.2,12.7,291.0,0,0,0
+14.1,31.9,male,147.0,69.5,conservative,uncomplicated,appendicitis,0,5.0,4.0,yes,yes,yes,no,no,yes,36.9,8.1,64.8,0,5.26,15.7,12.7,151.0,0,0,0
+14.14,23.3,female,163.0,62.0,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,yes,yes,no,no,no,36.6,13.2,74.8,0,3.98,11.4,12.2,300.0,0,0,0
+16.37,20.6,female,165.0,56.0,conservative,uncomplicated,appendicitis,0,7.0,6.0,yes,yes,no,no,yes,yes,36.0,11.4,63.0,0,4.64,13.6,13.2,258.0,0,0,0
+11.05,30.7,male,121.0,45.0,conservative,uncomplicated,appendicitis,0,6.0,7.0,yes,yes,yes,yes,yes,yes,36.9,9.5,71.4,0,4.96,12.5,13.3,249.0,1,0,0
+8.98,19.4,female,140.0,38.5,conservative,uncomplicated,appendicitis,0,5.0,6.0,no,yes,yes,yes,yes,yes,36.7,10.0,69.1,0,4.77,12.7,12.6,337.0,0,0,1
+7.9,15.7,male,131.0,26.7,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,no,yes,37.3,20.9,76.0,1,4.61,13.4,12.0,350.0,1,1,0
+9.4,16.6,male,141.0,33.0,conservative,uncomplicated,appendicitis,0,9.0,7.0,no,yes,yes,no,yes,yes,37.4,16.1,86.3,1,5.06,13.7,12.9,232.0,1,1,0
+12.48,22.1,female,131.0,38.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,yes,yes,yes,no,no,yes,36.5,6.0,49.9,0,4.33,12.5,12.9,250.0,0,0,0
+14.93,25.0,female,165.0,68.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,36.2,7.3,64.4,0,4.24,13.6,11.7,245.0,0,0,1
+14.74,22.9,male,155.0,55.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,yes,yes,no,no,no,no,36.3,8.0,69.3,0,4.94,14.0,12.1,191.0,0,0,0
+11.18,16.7,female,151.0,37.9,conservative,uncomplicated,appendicitis,0,8.0,7.0,no,yes,no,no,yes,yes,38.4,18.0,85.0,1,4.43,13.1,12.3,298.0,1,1,0
+13.6,20.9,female,150.0,47.0,conservative,uncomplicated,appendicitis,0,1.0,1.0,no,no,no,no,no,yes,36.6,9.0,70.2,0,4.45,12.4,12.1,254.0,0,0,0
+15.92,21.9,male,180.0,71.0,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.0,5.2,62.0,0,4.69,14.3,11.7,197.0,0,0,0
+15.7,25.5,male,175.0,78.0,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.0,6.9,57.0,0,5.3,15.8,12.2,223.0,0,1,0
+5.33,17.4,male,127.0,28.0,conservative,uncomplicated,appendicitis,0,9.0,8.0,yes,yes,no,no,yes,yes,38.3,33.6,83.6,1,4.3,11.9,12.0,393.0,1,0,0
+7.84,23.2,female,136.0,43.0,conservative,uncomplicated,appendicitis,0,8.0,7.0,no,yes,no,no,yes,yes,37.9,18.8,80.0,1,4.35,11.1,12.9,285.0,1,2,0
+10.13,17.2,male,132.0,30.0,conservative,uncomplicated,appendicitis,0,8.0,9.0,yes,yes,no,yes,yes,yes,36.5,13.7,81.3,1,5.06,11.4,15.1,312.0,1,1,0
+16.83,17.7,female,178.0,56.0,conservative,uncomplicated,appendicitis,0,6.0,7.0,yes,yes,yes,yes,yes,yes,37.2,5.5,66.9,0,4.77,14.8,13.6,199.0,1,0,0
+12.16,24.6,male,160.0,63.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,no,no,no,no,37.4,11.5,74.3,0,4.81,13.9,12.1,233.0,0,0,0
+16.8,37.0,female,162.0,97.0,conservative,uncomplicated,appendicitis,0,7.0,6.0,yes,yes,no,no,no,yes,37.6,10.9,69.6,0,4.69,13.0,12.1,265.0,0,0,0
+3.99,14.4,male,101.5,14.5,conservative,uncomplicated,"Appendizitis, Lymphadenitis mesenterialis",0,7.0,6.0,no,yes,no,no,yes,yes,37.4,18.4,71.9,0,4.23,11.9,12.7,337.0,1,2,0
+10.006,24.1,male,155.0,58.1,conservative,uncomplicated,appendicitis,0,7.0,7.0,yes,yes,no,no,yes,yes,38.0,8.3,75.5,1,4.93,13.7,12.0,296.0,0,0,0
+11.88,20.7,female,154.0,48.5,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,yes,yes,no,no,no,36.8,11.0,73.7,0,4.4,13.2,12.8,262.0,1,1,0
+10.58,17.3,male,140.0,34.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,no,no,no,no,37.8,11.1,71.7,0,5.08,13.1,12.6,395.0,0,0,0
+6.9,12.9,female,115.0,16.7,conservative,uncomplicated,appendicitis,0,4.0,3.0,no,no,yes,no,yes,yes,37.0,10.0,83.5,1,4.5,12.6,11.9,359.0,0,1,1
+17.79,18.4,male,173.0,55.0,conservative,uncomplicated,appendicitis,0,5.0,6.0,no,yes,yes,yes,no,yes,37.0,6.8,77.9,1,5.03,14.6,12.0,171.0,1,0,0
+17.66,26.2,female,167.0,73.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,36.7,6.7,47.4,0,4.4,13.3,12.1,292.0,0,3,1
+11.05,33.3,male,145.0,69.8,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,no,yes,no,yes,yes,36.6,12.0,50.5,0,4.54,13.2,12.2,531.0,0,0,1
+14.66,29.8,female,169.0,85.0,conservative,uncomplicated,appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,36.4,8.5,51.5,0,4.55,12.9,12.5,261.0,0,0,0
+10.51,14.1,female,153.0,33.0,conservative,uncomplicated,appendicitis,0,4.0,6.0,no,yes,no,yes,yes,yes,37.1,8.0,45.4,0,5.03,14.6,11.9,265.0,1,0,0
+14.57,24.9,female,150.0,56.0,conservative,uncomplicated,appendicitis,0,4.0,5.0,no,yes,yes,yes,no,yes,36.1,7.4,60.3,0,4.77,13.2,13.2,330.0,0,0,0
+11.3,16.0,female,152.0,37.0,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.7,8.6,66.1,0,5.44,14.4,12.5,263.0,0,0,0
+8.47,21.0,male,138.0,40.0,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,yes,yes,36.9,17.7,89.6,1,6.44,15.0,15.0,317.0,1,0,0
+15.66,20.1,female,164.0,54.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,37.0,6.0,53.8,0,4.25,12.5,13.9,250.0,1,0,1
+10.49,15.8,male,140.0,31.0,conservative,uncomplicated,appendicitis,0,8.0,8.0,no,yes,yes,yes,no,yes,37.9,15.9,88.0,1,4.35,13.3,11.2,269.0,1,0,0
+9.39,15.3,female,139.8,30.0,conservative,uncomplicated,appendicitis,0,3.0,5.0,yes,yes,no,yes,no,no,36.9,6.0,51.2,0,4.33,12.4,12.6,190.0,0,0,0
+15.83,19.1,female,168.0,54.0,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.1,8.1,60.9,0,4.66,13.2,12.9,306.0,0,0,0
+8.16,16.8,male,140.0,33.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,no,no,no,yes,yes,36.2,21.7,77.1,1,4.74,13.0,12.7,385.0,0,0,0
+15.09,18.7,male,192.0,69.0,conservative,uncomplicated,appendicitis,0,4.0,3.0,no,no,yes,no,yes,yes,37.1,8.7,76.8,1,4.98,13.5,12.7,188.0,0,0,0
+12.1,19.1,female,160.0,49.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,35.6,8.1,57.7,0,4.73,13.1,12.6,277.0,0,0,0
+6.29,13.9,male,120.0,20.0,conservative,uncomplicated,appendicitis,0,10.0,10.0,yes,yes,yes,yes,yes,yes,38.3,19.1,79.7,1,4.9,12.7,12.2,221.0,0,0,0
+10.78,17.1,female,145.0,36.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,yes,no,yes,yes,37.4,5.9,54.6,0,4.68,13.1,12.0,287.0,0,0,1
+9.53,16.6,male,132.0,29.0,conservative,uncomplicated,appendicitis,0,9.0,8.0,yes,yes,no,no,yes,yes,37.7,17.6,81.0,1,4.67,12.5,12.6,339.0,0,0,0
+6.64,16.0,female,125.0,24.5,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,no,no,no,no,yes,37.9,16.3,80.8,1,4.98,13.5,12.1,328.0,1,0,1
+11.95,18.7,male,162.0,49.0,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,yes,yes,36.0,16.7,90.0,1,4.84,12.7,12.4,236.0,1,1,0
+12.97,19.5,female,152.0,44.8,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.0,6.4,41.0,0,4.01,12.3,11.6,367.0,0,0,0
+16.12,22.5,female,166.0,62.0,conservative,uncomplicated,appendicitis,0,4.0,4.0,yes,yes,no,no,no,yes,36.4,9.8,71.4,0,4.62,11.6,18.0,451.0,1,2,0
+12.62,20.8,female,161.0,54.0,conservative,uncomplicated,appendicitis,0,4.0,3.0,no,yes,yes,no,no,yes,36.9,9.8,43.6,0,4.78,13.8,12.4,253.0,1,3,1
+12.27,20.0,female,158.0,50.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,yes,yes,yes,no,no,yes,36.8,8.2,45.7,0,4.45,12.8,12.6,250.0,0,0,1
+4.39,15.1,male,103.0,16.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,no,yes,39.0,14.4,73.8,0,4.99,12.9,11.9,490.0,1,2,0
+9.44,18.6,female,142.5,37.8,conservative,uncomplicated,appendicitis,0,9.0,8.0,yes,yes,no,no,yes,yes,37.7,21.2,85.7,1,4.45,13.0,12.6,357.0,0,0,0
+16.72,18.5,male,180.0,60.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,no,no,no,yes,37.0,10.7,67.7,0,5.57,15.5,13.3,224.0,1,0,0
+15.18,25.4,female,151.0,58.0,conservative,uncomplicated,appendicitis,0,4.0,5.0,no,yes,no,yes,no,no,36.3,15.8,56.6,0,4.54,13.3,11.9,304.0,1,1,0
+10.56,15.6,male,142.5,32.0,conservative,uncomplicated,Appendizitis/ Lymphadenitis mesenterialis,0,4.0,3.0,no,no,yes,no,yes,yes,37.8,9.8,67.2,0,4.62,13.5,11.8,266.0,1,1,0
+14.84,20.3,female,160.0,52.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,yes,no,no,37.3,7.0,69.5,0,3.92,11.5,11.9,199.0,0,0,0
+9.25,25.9,male,139.0,50.0,conservative,uncomplicated,appendicitis,0,7.0,6.0,yes,yes,no,no,yes,yes,36.9,17.2,72.8,0,5.15,12.8,14.8,393.0,1,0,0
+10.93,18.4,male,137.5,35.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,yes,yes,no,no,no,no,36.5,6.8,51.0,0,5.13,14.0,13.3,338.0,0,0,0
+13.83,29.8,male,169.0,85.4,conservative,uncomplicated,appendicitis,0,5.0,5.0,yes,yes,no,no,yes,yes,36.4,9.7,42.5,0,5.52,15.0,14.6,369.0,1,0,0
+10.9,13.7,female,135.0,24.5,conservative,uncomplicated,appendicitis,0,0.0,1.0,yes,no,no,no,no,no,36.7,8.7,63.5,0,4.74,15.3,12.8,324.0,0,0,1
+16.38,17.3,female,165.0,46.8,conservative,uncomplicated,appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,36.5,8.5,48.3,0,4.53,13.2,11.9,267.0,0,0,0
+9.2,16.6,male,143.0,33.5,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,yes,no,yes,yes,37.1,6.1,60.1,0,4.54,12.7,12.8,280.0,0,0,0
+11.9,16.7,female,153.0,38.5,conservative,uncomplicated,appendicitis,0,4.0,4.0,yes,yes,no,no,no,no,37.3,8.0,47.1,0,4.84,13.5,12.6,405.0,0,0,0
+8.56,16.3,female,138.0,30.5,conservative,uncomplicated,appendicitis,0,4.0,3.0,no,no,yes,no,yes,yes,36.4,8.4,83.4,1,4.37,11.5,12.6,234.0,0,0,0
+10.05,20.3,female,148.5,45.0,conservative,uncomplicated,appendicitis,0,0.0,0.0,no,no,no,no,no,no,36.3,9.1,40.3,0,4.37,12.1,13.1,246.0,0,0,0
+11.06,19.2,female,146.0,41.0,conservative,uncomplicated,appendicitis,0,7.0,8.0,no,yes,no,yes,yes,yes,36.4,21.8,81.8,1,4.63,12.9,12.2,391.0,0,0,0
+8.67,12.8,female,140.0,25.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,yes,no,yes,yes,36.8,6.9,55.0,0,4.31,11.5,12.4,412.0,0,0,1
+15.79,23.0,female,160.0,59.0,conservative,uncomplicated,appendicitis,0,6.0,7.0,yes,yes,yes,yes,yes,yes,36.3,5.1,53.0,0,5.01,13.6,14.7,173.0,0,1,0
+9.53,26.1,female,149.0,58.0,conservative,uncomplicated,appendicitis,0,3.0,2.0,no,yes,yes,no,no,no,37.1,7.4,57.2,0,4.76,12.6,12.0,373.0,0,0,0
+9.19,15.3,male,133.0,27.2,conservative,uncomplicated,appendicitis,0,6.0,5.0,yes,yes,yes,no,yes,yes,36.4,5.3,59.8,0,4.06,11.4,12.8,91.0,0,0,0
+11.07,24.5,female,147.0,53.0,conservative,uncomplicated,appendicitis,0,7.0,5.0,no,yes,yes,no,no,yes,37.8,11.0,73.4,0,4.84,14.2,12.4,327.0,1,1,1
+12.9,17.1,female,153.0,40.0,conservative,uncomplicated,appendicitis,0,8.0,7.0,no,yes,no,no,yes,yes,38.4,26.9,90.0,1,4.85,14.2,13.1,418.0,1,3,1
+7.02,10.9,male,132.0,19.0,conservative,uncomplicated,appendicitis,0,8.0,7.0,no,yes,no,no,yes,yes,38.2,19.9,93.8,1,4.47,11.9,13.6,340.0,1,0,0
+10.75,22.9,female,155.0,54.5,conservative,uncomplicated,appendicitis,0,7.0,7.0,no,yes,yes,yes,no,no,37.7,10.3,81.2,1,4.79,13.0,13.7,254.0,0,0,0
+10.37,16.0,male,156.0,39.0,conservative,uncomplicated,appendicitis,0,3.0,5.0,no,yes,no,yes,no,no,37.4,5.6,38.6,0,4.8,14.0,12.6,275.0,0,0,0
+9.04,16.2,female,134.0,29.4,conservative,uncomplicated,appendicitis,0,5.0,5.0,yes,yes,no,no,yes,yes,36.0,5.1,44.5,0,4.92,13.7,12.6,244.0,1,1,0
+11.79,19.2,female,137.0,36.0,conservative,uncomplicated,appendicitis,0,6.0,6.0,no,yes,yes,yes,no,no,36.6,14.6,77.7,1,4.73,13.1,12.2,251.0,0,1,0
+9.94,15.3,male,140.0,29.5,conservative,uncomplicated,appendicitis,0,8.0,6.0,yes,yes,yes,no,no,no,37.4,18.6,75.2,1,5.29,14.3,13.5,433.0,1,1,0
+7.26,15.4,male,130.0,25.6,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.9,6.9,46.2,0,4.86,13.5,12.5,275.0,0,0,0
+8.09,16.5,male,128.0,27.0,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,yes,yes,36.8,14.0,86.1,1,14.0,14.7,13.6,289.0,1,1,0
+4.52,14.0,female,110.0,16.5,conservative,uncomplicated,appendicitis,0,8.0,9.0,no,yes,no,yes,yes,yes,37.3,22.1,87.6,1,5.03,13.1,13.5,365.0,0,0,0
+11.35,25.6,female,163.0,68.0,conservative,uncomplicated,appendicitis,0,6.0,4.0,no,yes,yes,no,no,no,36.8,12.1,78.2,1,4.37,12.3,14.6,271.0,0,0,0
+15.87,19.0,female,166.5,53.3,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.0,5.2,46.1,0,4.27,12.9,12.2,267.0,0,0,0
+15.26,15.9,male,174.0,47.5,conservative,uncomplicated,appendicitis,0,5.0,5.0,no,yes,yes,yes,no,no,36.7,10.4,54.1,0,5.32,14.6,13.1,298.0,0,0,0
+9.99,18.9,female,140.0,37.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,yes,yes,yes,no,no,no,37.8,9.7,68.4,0,4.99,13.5,12.1,368.0,0,0,0
+15.21,20.8,female,158.0,52.0,conservative,uncomplicated,appendicitis,0,4.0,4.0,yes,yes,no,no,no,yes,36.2,5.9,61.5,0,4.67,13.5,12.6,223.0,1,0,0
+13.37,20.4,female,161.0,53.0,conservative,uncomplicated,appendicitis,0,2.0,4.0,no,yes,no,yes,no,no,36.7,6.2,53.2,0,4.44,12.3,12.1,249.0,0,0,0
+16.86,35.4,female,154.0,84.0,conservative,uncomplicated,appendicitis,0,4.0,4.0,no,yes,no,no,yes,no,37.4,7.2,68.3,0,4.62,12.0,13.6,221.0,0,0,0
+12.4134154688569,18.763589805852,female,150.5,42.5,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,yes,no,yes,yes,37.2,9.1,75.0,1,5.49,16.3,12.6,311.0,0,0,0
+9.3305954825462,15.3787004998078,female,127.5,25.0,conservative,uncomplicated,no appendicitis,0,5.0,4.0,no,yes,no,no,no,yes,36.4,7.6,54.1,0,5.09,15.0,11.9,302.0,0,0,0
+11.6659822039699,23.37999981296,female,163.5,62.5,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.8,9.2,60.3,0,4.61,12.9,13.9,296.0,0,1,0
+15.11,17.71,male,165.5,48.5,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,36.8,7.8,73.7,0,5.67,15.2,12.8,213.0,0,0,0
+11.0527036276523,26.0145122278957,female,152.5,60.5,conservative,uncomplicated,appendicitis,0,5.0,6.0,no,yes,yes,yes,yes,yes,37.0,7.5,50.8,0,5.09,13.4,11.9,283.0,1,0,1
+10.90212183436,21.1652794292509,male,145.0,44.5,conservative,uncomplicated,appendicitis,0,5.0,6.0,yes,yes,yes,yes,yes,no,36.4,9.7,56.2,0,5.24,14.4,12.7,374.0,0,0,0
+17.56,19.1,female,165.0,52.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,no,no,no,no,37.3,11.2,70.3,0,4.36,12.8,11.8,340.0,0,0,0
+15.813826146475,22.6055919095776,female,164.0,60.8,conservative,uncomplicated,no appendicitis,0,3.0,2.0,no,yes,yes,no,no,no,37.3,7.6,55.1,0,4.48,13.2,14.0,252.0,0,3,0
+5.76865160848734,19.648,male,125.0,30.7,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,yes,no,yes,no,39.7,11.4,65.0,0,5.1,13.6,13.5,305.0,0,1,0
+15.9698836413415,7.82798256044392,female,174.0,23.7,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.0,6.8,59.5,0,4.73,14.2,12.2,233.0,0,0,0
+9.26762491444216,23.3354661447552,male,163.0,62.0,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.8,8.6,49.4,0,5.49,14.2,13.7,294.0,0,0,0
+12.3860369609856,20.9083761053588,female,157.4,51.8,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.4,8.8,56.4,0,5.49,13.5,14.5,417.0,0,0,0
+15.0527036276523,18.3654729109275,female,165.0,50.0,conservative,uncomplicated,no appendicitis,0,3.0,3.0,no,yes,no,no,yes,no,36.8,9.0,78.2,1,4.52,13.5,11.8,204.0,0,0,0
+6.0041067761807,11.8976799524093,male,123.0,18.0,conservative,uncomplicated,appendicitis,0,8.0,7.0,no,yes,no,no,yes,yes,39.2,19.4,76.8,1,4.17,11.4,14.3,269.0,0,0,0
+12.3011635865845,15.0657414170928,male,148.0,33.0,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.0,6.5,27.2,0,5.25,15.0,12.5,309.0,0,0,0
+17.1991786447639,22.3673469387755,female,175.0,68.5,conservative,uncomplicated,appendicitis,0,7.0,5.0,no,yes,no,no,yes,no,37.6,15.9,85.5,1,4.71,12.7,12.4,200.0,0,3,0
+7.98631074606434,18.8454671692125,female,142.0,38.0,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,yes,no,no,no,no,37.2,11.4,58.8,0,5.06,13.2,13.7,376.0,1,0,0
+13.264887063655,20.3954214360042,female,155.0,49.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,yes,yes,no,no,yes,no,36.8,9.4,72.9,0,4.44,13.3,12.3,267.0,0,0,0
+14.4941820670773,19.3773438449812,male,163.5,51.8,conservative,uncomplicated,appendicitis,0,4.0,5.0,no,yes,no,yes,yes,no,37.4,5.0,55.1,0,4.83,12.0,15.2,181.0,0,0,0
+14.425735797399,20.53,female,150.5,46.5,conservative,uncomplicated,no appendicitis,0,2.0,4.0,no,yes,no,yes,no,no,37.0,7.7,63.2,0,4.77,13.0,11.9,230.0,0,0,0
+12.5475701574264,20.3203327933748,male,161.5,53.0,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.2,7.6,55.0,0,4.94,14.9,12.7,320.0,0,0,0
+8.8870636550308,15.495867768595,female,132.0,27.0,conservative,uncomplicated,appendicitis,0,5.0,6.0,yes,yes,yes,yes,yes,no,37.0,7.1,54.8,0,4.52,12.3,12.9,265.0,0,0,0
+11.2060232717317,13.337534131485,female,138.0,25.4,conservative,uncomplicated,appendicitis,0,8.0,5.0,no,yes,no,no,yes,no,37.6,16.7,82.6,1,4.51,12.6,12.5,351.0,1,0,0
+8.61601642710472,15.8713963427768,male,148.5,35.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,yes,no,no,no,39.3,5.4,79.6,1,4.45,12.6,12.7,167.0,0,0,0
+11.9808350444901,17.0749108204518,male,145.0,35.9,conservative,uncomplicated,no appendicitis,0,4.0,2.0,no,yes,yes,no,no,no,37.8,5.6,41.1,0,4.41,11.9,13.4,389.0,0,0,0
+15.0499657768652,19.27,male,175.0,59.0,conservative,uncomplicated,no appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,36.8,8.9,55.7,0,5.81,15.8,13.3,189.0,0,0,0
+5.927446954141,12.5101645086633,male,109.5,15.0,conservative,uncomplicated,appendicitis,0,6.0,3.0,no,yes,no,no,no,no,37.8,10.4,56.4,0,4.74,12.5,13.4,396.0,1,0,0
+7.21149897330596,15.3787004998078,male,127.5,25.0,conservative,uncomplicated,appendicitis,0,3.0,2.0,no,yes,no,no,no,no,36.8,7.1,72.9,0,5.04,13.1,13.5,406.0,1,0,0
+15.4880219028063,20.5815913084012,female,167.0,57.4,conservative,uncomplicated,appendicitis,0,7.0,5.0,no,yes,yes,no,no,no,38.0,12.2,85.4,1,4.39,13.1,13.7,227.0,1,0,0
+14.5763175906913,22.9760665972945,female,155.0,55.2,conservative,uncomplicated,no appendicitis,0,9.0,9.0,yes,yes,no,yes,yes,no,38.7,14.0,91.6,1,4.6,13.5,12.6,234.0,1,0,1
+14.6146475017112,11.0344047080127,male,188.0,39.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,yes,no,36.8,10.5,76.7,1,4.74,13.6,12.9,174.0,0,0,0
+14.8720054757016,16.1872644316604,male,177.5,51.0,conservative,uncomplicated,no appendicitis,0,3.0,2.0,no,yes,yes,no,no,no,36.0,12.9,67.0,0,5.25,15.3,12.4,252.0,0,0,0
+7.73990417522245,22.0381880477264,female,120.5,32.0,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,yes,yes,no,no,no,38.8,9.8,54.5,0,5.1,14.0,12.0,305.0,1,1,1
+11.04,20.78,female,152.0,48.0,conservative,uncomplicated,no appendicitis,0,8.0,8.0,yes,yes,yes,yes,yes,no,37.0,10.3,79.8,1,5.04,14.6,11.8,270.0,0,3,0
+9.34,19.04,female,137.5,36.0,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.0,7.0,53.1,0,4.9,13.6,12.4,190.0,0,0,0
+10.1574264202601,21.017920125969,female,142.2,42.5,conservative,uncomplicated,appendicitis,0,9.0,6.0,yes,yes,yes,no,yes,no,37.4,15.0,72.5,0,4.73,12.5,12.9,318.0,0,0,0
+11.4004106776181,16.2964537499557,female,145.5,34.5,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,37.0,8.2,67.5,0,5.2,14.2,13.0,206.0,1,0,0
+15.7125256673511,17.7039772900705,male,181.0,58.0,conservative,uncomplicated,appendicitis,0,6.0,7.0,yes,yes,no,no,yes,yes,39.5,8.7,72.7,0,5.12,13.8,13.7,204.0,0,0,0
+14.3408624229979,21.2603035899284,female,149.0,47.2,conservative,uncomplicated,no appendicitis,0,6.0,6.0,no,yes,no,no,yes,yes,38.9,8.0,83.1,1,5.29,14.8,13.1,197.0,1,1,0
+7.81656399726215,18.6556617106676,male,133.0,33.0,conservative,uncomplicated,appendicitis,0,7.0,7.0,yes,yes,yes,yes,no,yes,36.2,10.9,50.5,0,4.43,12.4,12.6,382.0,0,0,0
+10.652977412731,18.1122448979592,male,140.0,35.5,conservative,uncomplicated,appendicitis,0,5.0,5.0,no,yes,no,yes,no,no,37.8,15.7,67.1,0,4.8,13.9,13.2,292.0,0,0,0
+15.5318275154004,22.8625344752504,female,166.0,63.0,conservative,uncomplicated,no appendicitis,0,8.0,6.0,no,yes,yes,no,yes,no,38.0,14.2,88.9,1,5.2,14.9,12.9,319.0,0,1,0
+13.4866529774127,28.6047649516354,male,163.0,76.0,conservative,uncomplicated,no appendicitis,0,3.0,3.0,no,yes,no,yes,no,no,36.2,9.6,50.4,0,5.01,14.2,13.9,414.0,1,0,0
+6.67214236824093,25.0390218522373,female,124.0,38.5,conservative,uncomplicated,appendicitis,0,9.0,7.0,no,yes,yes,no,yes,yes,39.6,16.8,92.4,1,5.27,13.2,13.7,444.0,1,0,0
+9.58247775496236,15.1998498780259,male,146.0,32.4,conservative,uncomplicated,appendicitis,0,4.0,6.0,no,yes,no,yes,yes,yes,36.6,8.9,41.6,0,4.74,12.9,13.6,192.0,0,0,0
+12.9034907597536,19.140625,female,160.0,49.0,conservative,uncomplicated,appendicitis,0,7.0,4.0,no,yes,no,no,yes,no,37.8,11.9,55.2,0,4.91,13.2,13.5,226.0,1,0,0
+9.51403148528405,19.0290146509624,male,147.5,41.4,conservative,uncomplicated,appendicitis,0,9.0,6.0,no,yes,yes,no,yes,yes,37.8,12.4,81.1,1,5.0,14.2,12.5,235.0,0,0,0
+11.9616700889802,21.2183171945527,female,161.0,55.0,conservative,uncomplicated,appendicitis,0,8.0,6.0,no,yes,no,no,yes,yes,37.8,11.3,79.7,1,4.95,14.0,12.4,278.0,1,0,0
+12.9582477754962,16.8296485260771,female,168.0,47.5,conservative,uncomplicated,appendicitis,0,5.0,6.0,no,yes,yes,yes,yes,yes,36.5,8.8,60.6,0,4.87,14.2,13.7,274.0,0,0,0
+11.3839835728953,30.6292509346426,female,149.0,68.0,conservative,uncomplicated,no appendicitis,0,3.0,3.0,no,yes,no,no,no,no,38.4,8.7,43.0,0,4.82,13.3,12.2,255.0,0,0,0
+13.9,23.8,female,152.0,54.7,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,no,37.3,7.1,51.1,0,4.74,13.5,12.8,217.0,0,0,0
+11.3812457221081,17.3333333333333,male,150.0,39.0,conservative,uncomplicated,appendicitis,0,5.0,6.0,no,yes,no,yes,no,yes,36.8,15.3,66.7,0,5.33,14.1,14.1,299.0,0,0,0
+12.0985626283368,15.7401334825045,male,161.0,40.8,conservative,uncomplicated,no appendicitis,0,3.0,3.0,yes,yes,no,no,no,no,36.8,5.6,59.1,0,4.54,12.5,13.1,272.0,0,0,0
+11.3319644079398,28.1721769131052,female,156.5,69.0,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,yes,no,no,no,no,37.0,10.8,69.0,0,4.63,12.4,13.1,275.0,1,0,1
+10.6666666666667,19.71,male,137.0,37.0,conservative,uncomplicated,appendicitis,0,9.0,10.0,yes,yes,no,yes,yes,yes,38.1,15.5,84.4,1,5.44,13.5,13.2,383.0,1,0,0
+17.1006160164271,23.4190279602177,male,182.5,78.0,conservative,uncomplicated,appendicitis,0,6.0,4.0,no,yes,yes,no,yes,no,37.0,8.7,77.5,1,4.93,15.0,12.6,261.0,1,0,0
+10.1902806297057,16.8580357035955,female,144.5,35.2,conservative,uncomplicated,no appendicitis,0,3.0,2.0,no,yes,no,no,no,no,37.3,9.1,51.3,0,4.43,12.8,12.5,296.0,0,0,1
+12.6297056810404,22.21,male,163.0,59.0,conservative,uncomplicated,appendicitis,0,4.0,5.0,no,yes,no,yes,no,no,37.0,10.6,55.6,0,5.06,14.4,12.6,270.0,0,0,0
+5.85626283367557,17.7693761814745,male,115.0,23.5,conservative,uncomplicated,appendicitis,0,6.0,6.0,no,yes,no,no,no,yes,38.7,13.9,71.9,0,4.93,13.4,14.6,333.0,0,0,0
+14.3956194387406,19.5964581216432,female,166.0,54.0,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,yes,yes,no,no,yes,37.5,6.2,62.4,0,5.28,13.9,13.9,316.0,0,0,0
+12.2217659137577,20.0286726260752,female,154.0,47.5,conservative,uncomplicated,appendicitis,0,9.0,8.0,yes,yes,yes,yes,no,no,38.4,13.0,77.4,1,4.94,13.5,13.4,253.0,1,2,0
+8.58042436687201,18.0622837370242,female,170.0,52.2,conservative,uncomplicated,no appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,36.8,9.1,68.1,0,4.11,12.6,11.6,307.0,1,2,1
+6.38193018480493,13.8888888888889,female,120.0,20.0,conservative,uncomplicated,appendicitis,0,7.0,4.0,no,yes,no,no,no,no,37.8,18.7,78.1,1,4.75,13.4,11.5,436.0,1,0,1
+15.3237508555784,21.9261258222297,female,154.0,52.0,conservative,uncomplicated,appendicitis,0,5.0,6.0,no,yes,no,yes,no,no,36.8,10.1,78.6,1,5.01,13.6,12.7,361.0,0,0,0
+14.0999315537303,18.8189243102864,male,163.0,50.0,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.8,7.0,56.1,0,4.81,13.3,13.9,234.0,0,0,0
+11.4168377823409,21.9288627691768,female,151.0,50.0,conservative,uncomplicated,appendicitis,0,3.0,5.0,no,yes,no,yes,yes,no,36.9,7.9,43.3,0,4.67,13.9,12.6,314.0,0,0,0
+10.2395619438741,14.6487748925526,male,134.5,26.5,conservative,uncomplicated,no appendicitis,0,4.0,4.0,yes,yes,no,no,no,yes,37.2,6.9,66.1,0,5.03,14.3,13.4,204.0,0,0,0
+11.047227926078,25.6263905228948,female,146.5,55.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,yes,yes,no,no,yes,no,37.0,8.5,42.8,0,4.37,11.9,12.1,345.0,0,0,0
+14.1984941820671,16.1616161616162,male,165.0,44.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,36.6,5.1,44.9,0,4.95,13.2,12.7,289.0,0,0,0
+10.0971937029432,17.7112265024353,male,136.5,33.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,no,36.7,13.1,62.6,0,5.09,14.3,12.2,254.0,0,0,0
+11.27446954141,15.4813285794708,female,146.0,33.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,36.6,7.7,56.1,0,5.14,14.6,11.7,389.0,0,0,0
+9.96577686516085,16.6089965397924,female,127.5,27.0,conservative,uncomplicated,appendicitis,0,5.0,3.0,no,yes,yes,no,no,no,37.0,12.3,47.3,0,5.03,13.7,12.4,152.0,0,1,1
+12.6297056810404,21.2493075002466,male,181.5,70.0,conservative,uncomplicated,appendicitis,0,4.0,3.0,no,yes,no,no,no,no,37.0,11.2,72.9,0,5.34,15.2,12.6,315.0,0,0,0
+9.43463381245722,15.9504597485457,female,146.0,34.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,37.2,8.0,46.9,0,4.31,13.9,12.0,233.0,0,0,0
+8.86516084873374,14.5934964967317,male,134.5,26.4,conservative,uncomplicated,appendicitis,0,6.0,5.0,yes,yes,no,no,yes,yes,37.9,5.0,70.1,0,5.09,14.7,12.4,182.0,0,0,0
+4.145106091718,15.1299394802421,female,106.0,17.0,conservative,uncomplicated,appendicitis,0,6.0,4.0,no,yes,no,no,no,no,37.5,17.9,84.0,1,4.63,12.3,13.4,288.0,0,0,0
+14.5982203969884,23.191094619666,male,154.0,55.0,conservative,uncomplicated,no appendicitis,0,3.0,3.0,no,yes,no,no,yes,no,37.0,6.2,41.2,0,4.81,12.9,14.9,151.0,0,0,0
+14.5242984257358,16.788254326791,male,181.0,55.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,yes,yes,no,no,yes,no,37.0,9.0,57.3,0,4.9,14.5,12.1,193.0,0,0,0
+8.97467488021903,16.1145573050855,female,125.3,25.3,conservative,uncomplicated,appendicitis,0,7.0,5.0,no,yes,no,no,no,no,38.8,13.9,84.5,1,4.47,12.7,13.2,229.0,1,0,0
+16.3340177960301,24.0569347455645,male,173.0,72.0,conservative,uncomplicated,no appendicitis,0,4.0,3.0,no,yes,yes,no,yes,no,36.2,4.5,41.2,0,4.74,15.1,12.5,128.0,0,0,0
+15.7535934291581,30.7266435986159,female,170.0,88.8,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,no,no,yes,no,36.8,14.7,70.2,0,4.96,13.2,13.0,331.0,0,1,1
+6.18206707734429,14.8632580261593,male,116.0,20.0,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,yes,no,38.9,17.5,85.5,1,4.6,12.5,13.5,349.0,0,0,0
+14.9650924024641,20.5693296602388,female,165.0,56.0,conservative,uncomplicated,no appendicitis,0,3.0,3.0,yes,yes,no,no,no,no,37.1,8.2,56.0,0,4.72,14.2,11.8,283.0,0,0,0
+3.36755646817248,14.1912760527245,male,94.6,12.7,conservative,uncomplicated,no appendicitis,0,7.0,5.0,no,yes,no,no,no,no,38.5,14.8,79.0,1,4.4,12.1,12.4,329.0,1,0,0
+11.4469541409993,19.8367770102983,female,146.2,42.4,conservative,uncomplicated,no appendicitis,0,3.0,3.0,no,yes,no,no,yes,no,37.2,8.2,55.3,0,5.35,14.8,12.1,356.0,0,0,0
+4.76933607118412,14.0603566529492,female,108.0,16.4,conservative,uncomplicated,appendicitis,0,7.0,5.0,no,yes,no,no,no,no,39.0,28.2,76.0,1,4.74,12.8,13.7,385.0,1,2,0
+10.5379876796715,15.9912468964356,male,133.5,28.5,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,37.2,6.6,55.3,0,4.41,12.3,12.8,239.0,0,0,0
+9.10609171800137,23.9805028085861,female,138.5,46.0,conservative,uncomplicated,appendicitis,0,4.0,4.0,no,yes,no,no,yes,no,37.8,7.1,49.6,0,5.42,14.3,13.1,401.0,0,1,1
+0.85,18.49,male,143.0,37.8,conservative,uncomplicated,appendicitis,0,8.0,7.0,yes,yes,no,no,no,yes,38.8,11.1,87.9,1,4.91,14.0,13.0,273.0,0,0,0
+16.1642710472279,21.2305720237141,female,158.0,53.0,conservative,uncomplicated,appendicitis,0,5.0,5.0,no,yes,no,no,yes,yes,37.2,8.9,75.0,1,4.84,13.2,13.0,205.0,1,0,0
+13.2703627652293,20.4491374182035,female,164.0,55.0,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.2,4.2,50.6,0,4.95,14.3,13.1,221.0,0,0,0
+17.3716632443532,22.640864624717,female,153.0,53.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,yes,no,36.2,19.8,83.3,1,4.72,14.4,12.8,305.0,0,3,1
+9.39082819986311,14.921244941334,female,128.4,24.6,conservative,uncomplicated,no appendicitis,0,5.0,4.0,yes,yes,no,no,no,no,37.9,6.0,53.5,0,5.16,14.5,12.5,283.0,1,0,1
+6.79260780287474,14.2011834319527,male,130.0,24.0,conservative,uncomplicated,no appendicitis,0,4.0,3.0,yes,yes,no,no,no,no,37.2,6.3,49.2,0,5.38,14.7,13.0,251.0,1,0,0
+13.2156057494867,23.5970042064225,female,171.0,69.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,yes,yes,no,no,no,no,36.2,6.7,52.7,0,4.92,14.2,12.3,406.0,0,0,0
+10.2477754962355,16.796875,male,160.0,43.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,yes,no,39.0,4.6,83.0,1,4.0,11.9,12.6,146.0,1,0,0
+12.1943874058864,23.8086901719128,female,169.0,68.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,no,39.0,7.1,50.7,0,4.98,13.1,13.8,377.0,0,1,0
+9.55783709787817,15.9434405049539,female,133.7,28.5,conservative,uncomplicated,appendicitis,0,2.0,2.0,no,yes,no,no,no,no,37.2,9.4,40.0,0,4.75,13.5,12.6,285.0,0,0,0
+9.90006844626968,14.4023268905986,male,146.0,30.7,conservative,uncomplicated,appendicitis,0,7.0,4.0,no,yes,no,no,no,no,37.9,17.1,86.7,1,5.01,13.9,12.6,255.0,1,0,0
+15.5947980835045,19.0450733402386,female,173.0,57.0,conservative,uncomplicated,appendicitis,0,8.0,6.0,yes,yes,yes,no,yes,no,38.5,7.6,84.0,1,4.75,13.9,13.1,151.0,1,3,0
+16.7583846680356,25.0556481471124,female,149.5,56.0,conservative,uncomplicated,no appendicitis,0,3.0,4.0,no,yes,yes,yes,no,no,36.8,9.8,63.0,0,4.42,13.3,12.7,262.0,0,1,0
+15.2881587953457,21.9652998103223,female,167.6,61.7,conservative,uncomplicated,appendicitis,0,4.0,6.0,no,yes,no,yes,yes,yes,36.8,5.7,61.5,0,5.19,12.8,14.2,249.0,0,0,0
+15.62765229295,19.3425858290723,male,185.0,66.2,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,no,no,39.9,15.3,88.5,1,5.48,16.3,11.9,368.0,1,0,0
+13.9411362080767,16.0049245921822,male,142.5,32.5,conservative,uncomplicated,no appendicitis,0,3.0,2.0,no,yes,yes,no,no,no,37.1,7.4,49.1,0,5.37,13.9,12.8,246.0,0,0,0
+17.0814510609172,28.0854759287146,female,164.5,76.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,no,no,no,yes,no,36.2,12.3,55.9,0,4.85,14.9,12.9,296.0,0,0,0
+11.3921971252567,16.8460880140534,male,149.0,37.4,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,yes,no,38.1,18.4,86.9,1,5.16,14.4,13.2,418.0,0,0,0
+12.5612594113621,21.7664864129511,male,148.5,48.0,conservative,uncomplicated,appendicitis,0,5.0,4.0,no,yes,no,no,yes,no,37.4,7.9,76.7,1,5.64,13.3,13.7,316.0,0,0,0
+5.1772758384668,13.31,male,113.0,17.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,yes,no,38.8,9.5,83.1,1,4.82,13.3,13.3,366.0,1,1,0
+12.1697467488022,22.2009659782005,female,145.5,47.0,conservative,uncomplicated,no appendicitis,0,6.0,5.0,no,yes,yes,no,yes,yes,38.2,7.5,57.7,0,5.14,14.3,12.9,366.0,1,0,0
+10.9952087611225,22.456083046678,female,156.5,55.0,conservative,uncomplicated,no appendicitis,0,4.0,3.0,no,yes,yes,no,yes,no,37.0,7.8,36.1,0,5.02,14.1,12.8,291.0,0,1,0
+11.1129363449692,23.1162636465667,male,158.4,58.0,conservative,uncomplicated,appendicitis,0,6.0,6.0,yes,yes,no,no,yes,yes,38.6,8.6,73.7,0,4.78,12.5,14.5,186.0,1,0,0
+6.28336755646817,14.9793388429752,male,132.0,26.1,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,no,38.2,7.9,70.0,0,4.87,12.8,13.8,219.0,0,0,0
+17.4455852156058,17.1753203857841,male,174.0,52.0,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.8,7.5,44.8,0,5.03,14.8,13.5,316.0,0,1,0
+8.47091033538672,16.0403094766029,male,129.5,26.9,conservative,uncomplicated,appendicitis,0,6.0,6.0,yes,yes,no,no,yes,yes,38.1,6.7,35.1,0,5.1,14.5,12.7,399.0,0,0,0
+12.1998631074606,16.9125624993009,male,149.5,37.8,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,yes,yes,36.3,10.2,79.1,1,4.67,13.6,12.5,304.0,0,0,0
+13.4729637234771,18.5303287981859,female,168.0,52.3,conservative,uncomplicated,appendicitis,0,6.0,7.0,yes,yes,yes,yes,yes,yes,37.0,7.0,43.4,0,4.33,13.0,12.7,200.0,0,0,0
+8.58316221765914,18.7985717286284,male,138.0,35.8,conservative,uncomplicated,appendicitis,0,3.0,2.0,no,yes,no,no,no,no,37.4,6.3,44.4,0,5.23,14.0,12.9,331.0,0,0,0
+16.7830253251198,18.6268226245794,female,158.0,46.5,conservative,uncomplicated,no appendicitis,0,3.0,4.0,no,yes,no,no,no,no,37.7,8.0,53.5,0,4.76,14.3,12.2,238.0,0,0,0
+15.13,21.78,male,156.0,53.0,conservative,uncomplicated,appendicitis,0,3.0,3.0,no,yes,no,no,no,yes,36.0,7.8,50.3,0,5.06,15.5,13.1,199.0,0,0,0
+7.09650924024641,15.28,male,120.0,22.0,conservative,uncomplicated,no appendicitis,0,4.0,3.0,no,no,no,no,yes,no,37.1,13.0,86.1,1,4.78,13.4,12.4,410.0,0,0,0
+13.5605749486653,28.6015659864498,female,157.0,70.5,conservative,uncomplicated,no appendicitis,0,2.0,1.0,no,no,no,no,no,no,37.2,15.0,68.9,0,5.02,14.2,14.1,420.0,0,0,0
+5.00479123887748,16.02,female,106.0,18.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,no,no,38.4,18.0,83.2,1,3.96,11.5,12.4,274.0,0,1,1
+11.0390143737166,17.3604413409976,female,161.0,45.0,conservative,uncomplicated,appendicitis,0,8.0,5.0,yes,yes,yes,no,yes,no,37.0,10.9,81.6,1,4.93,14.6,12.5,291.0,1,0,0
+11.3702943189596,12.55,female,140.0,24.6,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,no,yes,38.3,15.5,81.1,1,5.19,14.3,12.6,305.0,1,0,0
+15.2799452429843,20.451146179909,male,181.0,67.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,yes,no,no,yes,yes,36.8,6.2,62.0,0,5.13,14.5,14.3,188.0,0,0,0
+16.186173853525,19.53125,female,160.0,50.0,conservative,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,yes,no,37.2,11.6,76.7,1,4.06,11.5,12.9,168.0,0,0,0
+14.4914442162902,30.4350907029479,female,168.0,85.9,conservative,uncomplicated,no appendicitis,0,4.0,3.0,no,yes,yes,no,yes,no,37.0,6.5,47.8,0,4.51,13.1,14.0,221.0,0,0,0
+15.7234770704997,19.9593554942662,female,166.0,55.0,conservative,uncomplicated,no appendicitis,0,2.0,1.0,no,no,no,no,no,no,37.0,17.3,50.2,0,4.19,12.3,11.9,317.0,0,0,0
+13.5222450376454,18.9619274241523,female,164.0,51.0,conservative,uncomplicated,no appendicitis,0,4.0,4.0,no,no,no,no,yes,no,36.8,11.1,84.1,1,4.66,12.4,14.1,287.0,0,0,0
+12.4298425735797,19.3771626297578,male,170.0,56.0,conservative,uncomplicated,appendicitis,0,8.0,6.0,no,yes,no,no,yes,no,39.0,15.0,83.6,1,4.7,13.5,12.9,248.0,1,1,0
+7.44969199178645,12.3850628635767,male,146.0,26.4,conservative,uncomplicated,appendicitis,0,7.0,6.0,no,yes,no,no,yes,no,38.1,17.5,83.0,1,4.62,12.7,12.1,346.0,0,1,0
+13.9575633127995,27.7755232710188,female,166.5,77.0,conservative,uncomplicated,appendicitis,0,4.0,5.0,no,yes,yes,yes,yes,no,36.8,8.7,49.0,0,4.35,12.9,12.4,233.0,0,0,0
+12.6105407255305,28.0557057869118,male,172.0,83.0,conservative,uncomplicated,no appendicitis,0,2.0,2.0,no,yes,no,no,no,no,36.8,5.1,61.4,0,5.43,15.4,12.0,207.0,0,0,0
+17.4565366187543,23.1005917159763,female,162.5,61.0,conservative,uncomplicated,appendicitis,0,7.0,7.0,no,yes,no,yes,yes,no,36.8,13.1,80.8,1,4.9,13.5,13.9,276.0,1,0,1
+5.72,14.49,female,126.0,23.0,primary surgical,complicated,Sepsis mit Begleitappendizitis,0,3.0,3.0,no,no,no,no,yes,yes,40.0,8.3,71.0,0,4.08,11.5,13.1,165.0,0,1,1
+15.1841204654346,16.2629757785467,male,170.0,47.0,primary surgical,uncomplicated,appendicitis,0,6.0,5.0,no,yes,no,no,yes,no,39.0,9.6,88.1,1,4.66,13.5,13.5,267.0,1,1,0
+15.07,18.83,female,158.0,47.0,simultaneous appendectomy,uncomplicated,Bridenileus,0,5.0,7.0,no,yes,no,yes,yes,yes,37.2,8.6,83.8,1,4.54,14.0,12.2,176.0,0,0,0
