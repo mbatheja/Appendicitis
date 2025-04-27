@@ -206,11 +206,11 @@ if authentication_status:
             dob = st.date_input("Date of Birth", value=datetime.date(2000, 1, 1),  min_value=min_dob, max_value=max_dob)
             age= st.number_input("age", min_value=0.0, max_value=100.0, value=0.0)
             
-            sex = st.selectbox("Sex",["Select","Male", "Female"])
+            sex = st.selectbox("Sex",["Select","male", "female"])
             address = st.text_input("Address")
             phone = st.text_input("Phone Number")
             email = st.text_input("Email")
-            has_insurance = st.selectbox("Has Insurance?",["Select", "Yes", "No"])
+            has_insurance = st.selectbox("Has Insurance?",["Select", "yes", "no"])
             
             st.header("Vitals")
             body_temperature = st.number_input("Body Temperature in Celsius")
