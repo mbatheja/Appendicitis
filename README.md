@@ -46,6 +46,23 @@ To ensure clinical transparency, the project incorporates SHAP (SHapley Additive
 
 <li> Dual-Interface: Dedicated modules for data entry and diagnostic review. </li>
 
+## Setup and Usage
+<ol>
+<li> Install Dependencies:
+
+```Bash
+pip install -r requirements.txt
+```
+</li>
+<li> Database Configuration: Ensure a PostgreSQL instance is running and update db_config.py. </li>
+
+<li> Run the API: Start the Flask backend: python app.py. </li>
+
+<li> Launch the Dashboard: Start the Streamlit application: streamlit run login+form.py. </li>
+
+<li> View Predictions: After saving patient data, use the Prediction.py interface to retrieve the diagnosis. </li>
+</ol>
+
 ## Contributors
 Feinong Lyu: Exploratory Data Analysis, Modelling, SQL database design, Pipeline automation.
 
