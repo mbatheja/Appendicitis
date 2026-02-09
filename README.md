@@ -1,7 +1,7 @@
 # Diagnosis Support System (DSS)
 This project is a decision support system designed to predict the likelihood of appendicitis in patients based on various demographic, clinical, and laboratory features. It includes a machine learning pipeline for classification and a web-based user interface for data entry and prediction.
 
-##Project Structure
+## Project Structure
 <li> lab_data_eda.ipynb: Focused on the EDA and cleaning of laboratory data (Neutrophil %, WBC Count, Ketones). </li>
 
 <li> Clin_data_EDA.ipynb: Dedicated to EDA of clinical symptoms (Body Temperature, Migratory Pain, etc.). </li>
