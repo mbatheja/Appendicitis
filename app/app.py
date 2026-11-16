@@ -1,10 +1,11 @@
 from flask import Flask, jsonify
 import joblib
+from pathlib import Path
 from preprocess import get_features_from_db
 
 
 app = Flask(__name__)
-model = joblib.load("diagnosis_pipeline.pkl")
+model = joblib.load(Path(__file__).parent / "models" / "diagnosis_pipeline.pkl")
 
 @app.route("/predict_from_db/visit_id=<int:visit_id>", methods=["GET"])
 def predict_from_db(visit_id):

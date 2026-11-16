@@ -5,7 +5,9 @@ from yaml.loader import SafeLoader
 import datetime
 from datetime import date
 import sqlalchemy
-from sqlalchemy import create_engine, text
+from pathlib import Path
+from sqlalchemy import text
+from db_config import get_db_engine
 
 #some calculation functions
             
@@ -17,7 +19,7 @@ min_dob = datetime.date(1900, 1, 1)  # Earliest selectable date
 max_dob = datetime.date.today()       # Latest selectable date (today)
 
 #Load Yaml
-with open('./credentials.yml') as file:
+with open(Path(__file__).parent / 'credentials.yml') as file:
     config = yaml.load(file, Loader=yaml.SafeLoader)
 
 # Create the authenticator object using your YAML structure
@@ -29,10 +31,6 @@ authenticator = stauth.Authenticate(
 )
 
 #align ids with databases
-def get_db_engine():
-    engine = create_engine(
-        "postgresql+psycopg2://dadb:123456789qQ@localhost:5432/DSS" )
-    return engine
 engine = get_db_engine()
 
 def get_last_visit_id():
