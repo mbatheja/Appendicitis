@@ -19,7 +19,11 @@ min_dob = datetime.date(1900, 1, 1)  # Earliest selectable date
 max_dob = datetime.date.today()       # Latest selectable date (today)
 
 #Load Yaml
-with open(Path(__file__).parent / 'credentials.yml') as file:
+credentials_path = Path(__file__).parent / 'credentials.yml'
+if not credentials_path.exists():
+    st.error("app/credentials.yml not found. Copy app/credentials.example.yml to app/credentials.yml and fill it in.")
+    st.stop()
+with open(credentials_path) as file:
     config = yaml.load(file, Loader=yaml.SafeLoader)
 
 # Create the authenticator object using your YAML structure
