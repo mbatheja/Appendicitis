@@ -1,10 +1,9 @@
 import streamlit as st
 import requests
-from sqlalchemy import create_engine, text
+from sqlalchemy import text
+from db_config import get_db_engine
 
 # --- Database connection ---
-def get_db_engine():
-    return create_engine("postgresql+psycopg2://dadb:123456789qQ@localhost:5432/DSS")
 
 engine = get_db_engine()
 
