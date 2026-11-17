@@ -1,16 +1,20 @@
 import os
+from pathlib import Path
 
+from dotenv import load_dotenv
 from sqlalchemy import create_engine, text
 
-# Set DATABASE_URL to point at a different PostgreSQL instance.
-DATABASE_URL = os.environ.get(
-    "DATABASE_URL",
-    "postgresql+psycopg2://dadb:123456789qQ@localhost:5432/DSS",
-)
+# Reads DATABASE_URL from app/.env (copy .env.example) or the environment.
+load_dotenv(Path(__file__).parent / ".env")
 
 
 def get_db_engine():
-    return create_engine(DATABASE_URL)
+    url = os.environ.get("DATABASE_URL")
+    if not url:
+        raise RuntimeError(
+            "DATABASE_URL is not set. Copy app/.env.example to app/.env and fill it in."
+        )
+    return create_engine(url)
 
 
 if __name__ == "__main__":

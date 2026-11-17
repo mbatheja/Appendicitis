@@ -8,8 +8,9 @@ This project is a decision support system designed to predict the likelihood of 
 │   ├── pages/Prediction.py      # Streamlit page: fetch and record diagnoses
 │   ├── app.py                   # Flask REST API serving model predictions
 │   ├── preprocess.py            # Pulls a visit's features from the database
-│   ├── db_config.py             # Database connection (override with DATABASE_URL)
-│   ├── credentials.yml          # Streamlit login users (hashed passwords)
+│   ├── db_config.py             # Database connection (reads DATABASE_URL)
+│   ├── .env.example             # Template for app/.env (database URL)
+│   ├── credentials.example.yml  # Template for app/credentials.yml (login users)
 │   ├── start_project.py         # Starts Streamlit and Flask together
 │   ├── models/diagnosis_pipeline.pkl   # Trained scikit-learn pipeline
 │   ├── database/full_backup.sql # PostgreSQL schema + sample data
@@ -62,15 +63,22 @@ To ensure clinical transparency, the project incorporates SHAP (SHapley Additive
    pip install -r requirements.txt
    ```
 2. Set up PostgreSQL and load the schema: `psql -d DSS -f app/database/full_backup.sql`.
-   To use a database other than the default in `app/db_config.py`, set `DATABASE_URL`
-   (e.g. `postgresql+psycopg2://user:pass@host:5432/DSS`).
-3. Start the app from the `app/` folder:
+3. Create the two config files. Both are git-ignored, so they never get committed:
+   ```bash
+   cp app/.env.example app/.env
+   cp app/credentials.example.yml app/credentials.yml
+   ```
+   - In `app/.env`, set `DATABASE_URL` to your database
+     (e.g. `postgresql+psycopg2://user:pass@localhost:5432/DSS`).
+   - In `app/credentials.yml`, add the login users and a random cookie key.
+     Generate password hashes with `app/tools/hash_passwords.ipynb`.
+4. Start the app from the `app/` folder:
    ```bash
    cd app
    python start_project.py
    ```
    or run the two parts separately: `flask run` (API on port 5000) and `streamlit run Home.py`.
-4. Log in, enter patient data, then open the **Prediction** page to get the diagnosis.
+5. Log in, enter patient data, then open the **Prediction** page to get the diagnosis.
 
 Notebooks read from `data/`, so run them from inside `notebooks/`.
 

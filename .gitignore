@@ -8,3 +8,6 @@ venv/
 desktop.ini
 Thumbs.db
 ~$*
+
+# Secrets (see *.example files)
+app/credentials.yml
